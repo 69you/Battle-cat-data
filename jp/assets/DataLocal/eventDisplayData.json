@@ -1,11 +1,14 @@
 {
   "MapSet": {
     "2001": {
+      "eventWeight": 1,
+      "priority": 1,
       "FusumaOpenOffsetX": 0,
       "FusumaOpenOffsetY": 458,
       "BannerImgPNG": "event_bnr_C_001.png",
       "BannerImgIMGCUT": "event_bnr00.imgcut",
-      "PercentBanner": 50
+      "PercentBanner": 50,
+      "NekoBageImg": "C_001"
     },
     "2008": {
       "FusumaOpenOffsetX": 24,
@@ -999,6 +1002,7 @@
       "NekoBageImg": "S_260"
     },
     "1282": {
+      "eventWeight": 1,
       "FusumaOpenOffsetX": 0,
       "FusumaOpenOffsetY": 458,
       "FusumaImgPNG": "img009_S_282.png",
@@ -1010,6 +1014,7 @@
       "SelectStageImgReverse": 1
     },
     "1283": {
+      "eventWeight": 1,
       "FusumaOpenOffsetX": 0,
       "FusumaOpenOffsetY": 458,
       "FusumaImgPNG": "img009_S_282.png",

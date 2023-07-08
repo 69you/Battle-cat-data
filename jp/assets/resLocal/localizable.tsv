@@ -1033,7 +1033,7 @@ item_conversion	プラチナのかけらを%d個消費して<br><flash>プラチ
 fragment_message	プラチナのかけら<br>10個集めるとプラチナチケットを1枚ゲットできます<br>現在%d個持っています
 fragment_bonus	今なら11回連続ガチャを回すと<br>なんとプラチナのかけら1個をプレゼント！<br>10個集めると<flash>プラチナチケット</flash>を1枚ゲットできます
 scratch_message	「%s」%d個獲得！
-scratch_SNS_000	#にゃんこスクラッチくじ でネコカン%d個ゲットしたにゃ！<br>期間中、毎週チャレンジ可能！毎週参加していっぱいネコカンを手に入れるにゃ～！<br><br>#にゃんこ大戦争 #にゃんこスクラッチ #ねこなつ2022
+scratch_SNS_000	#にゃんこスクラッチくじ でネコカン%d個ゲットしたにゃ！<br>期間中、毎週チャレンジ可能！毎週参加していっぱいネコカンを手に入れるにゃ～！<br><br>#にゃんこ大戦争 #にゃんこスクラッチ #ねこなつ2023
 item_pack_name_39	感謝パック 購入
 demon_error_popup	<color=255,255,0>このステージにはまだ挑戦できません</color>
 demon_timelimit	のこり %d:%02d:%02d
@@ -1048,8 +1048,15 @@ demon_return_title	未受取の報酬があります！<br>ネコ基地へ入る
 demon_return_select	未受取の報酬があります！<br>ネコ基地へ入ると報酬を受け取ることができます。<br>ネコ基地移動画面へ移動します！
 settlement_error	決済が済んでいません。\n決済完了後にアイテムが付与されます。
 skip_description	前回${stageName1}をクリアしたので<br>今回は<flash>${stageName2}</flash>からスタートできます
-stageskip_message_0	風雲にゃんこ塔${stageName1}をクリア！<br>次回の挑戦では<flash>${stageName2}</flash>からスタートできます
-stageskip_message_1	異界にゃんこ塔${stageName1}をクリア！<br>次回の挑戦では<flash>${stageName2}</flash>からスタートできます
+stageskip_message_0	風雲にゃんこ塔 ${stageName1}をクリア！<br>次回の挑戦では<flash>${stageName2}</flash>からスタートできます
+stageskip_message_1	異界にゃんこ塔 ${stageName1}をクリア！<br>次回の挑戦では<flash>${stageName2}</flash>からスタートできます
+stageskip_message_2	ヒュージゴマ強襲 ${stageName1}をクリア！<br>次回の挑戦では<flash>${stageName2}</flash>からスタートできます
+stageskip_message_3	ジャイアント黒蔵強襲 ${stageName1}をクリア！<br>次回の挑戦では<flash>${stageName2}</flash>からスタートできます
+stageskip_message_4	ギガガガ強襲 ${stageName1}をクリア！<br>次回の挑戦では<flash>${stageName2}</flash>からスタートできます
+stageskip_message_5	デッカーバチャン強襲 ${stageName1}をクリア！<br>次回の挑戦では<flash>${stageName2}</flash>からスタートできます
+stageskip_message_6	大天使エクスエル強襲 ${stageName1}をクリア！<br>次回の挑戦では<flash>${stageName2}</flash>からスタートできます
+stageskip_message_7	ビッグペンZ強襲 ${stageName1}をクリア！<br>次回の挑戦では<flash>${stageName2}</flash>からスタートできます
+stageskip_message_8	オーメンズ強襲 ${stageName1}をクリア！<br>次回の挑戦では<flash>${stageName2}</flash>からスタートできます
 unlock_popup_message_106	<flash>宇宙編全クリアボーナス！</flash><br>神さまを倒したことで「ネコ超人」が出現しました！</flash><br>にゃんこガチャ＋から入手可能です
 unlock_popup_message_107	<flash>「にゃんこガチャ+」が解放されました！</flash><br>にゃんこ貯蔵庫へ保存できるキャラクター 64体 → <color=255,255,0>128体</color><br>基本キャラクターの交換NP 1 → <color=255,255,0>2</color>
 scratch_SNS_001	#新春にゃんこスクラッチくじ でネコカン%d個ゲットしたにゃ！！<br>参加していっぱいネコカンを手に入れるにゃ～！<br><br>#にゃんこ大戦争 #新春にゃんこスクラッチ
@@ -1085,6 +1092,7 @@ unlock_popup_message_134	<flash>＋Lv値上限解放！</flash><br>ステージ�
 unlock_popup_message_135	<flash>＋Lv値上限解放！</flash><br>ステージクリアで「ちびネコ達」の<br>＋Lv値が50まで解放されました
 unlock_popup_message_136	<flash>＋Lv値上限解放！</flash><br>ステージクリアで「ちびネコ達」の<br>＋Lv値が55まで解放されました
 unlock_popup_message_137	<flash>＋Lv値上限解放！</flash><br>ステージクリアで「ちびネコ達」の<br>＋Lv値が60まで解放されました
+unlock_popup_message_138	<flash>「ニャンピュータ」の戦闘スキップ機能が開放！</flash><br>アイテム選択中にアイコンをさらにタップして<br>クリアした状態のステージに出陣すると<br>戦闘をスキップして報酬をゲットできます<br>※一部対象外のステージがあります
 drop_info_single	<color=0,0,0>このステージで<br>1回だけドロップする報酬</color><br><color=255,0,0>${dropContents}</color><color=0,0,0>は<br>${statusWord}</color>
 drop_info_multi	<color=0,0,0>このステージで<br>1回だけドロップする報酬</color><br><color=255,0,0>${dropContents}</color><color=0,0,0>等は<br>${statusWord}</color>
 drop_contents1	${itemName}+${itemNum}
@@ -1145,3 +1153,16 @@ item_pack_name_49	お得！アイテムパック 購入
 item_pack_name_67	お得！ネコカンパック 購入
 item_pack_name_68	お得！経験値パック 購入
 item_pack_name_75	攻略応援パック 購入
+ScatCPU_info1	${itemName1}を<flash>${itemNum1}個</flash>使用して<br>戦闘スキップを開始しますか？<br>（本日のスキップ可能回数残り ${itemNum2}回）
+ScatCPU_info2	<flash>ニャンピュータ使い放題中はニャンピュータの消費なし！</flash><br>戦闘スキップを開始しますか？<br>（本日のスキップ可能回数残り ${itemNum}回）
+ScatCPU_XPdrop	<color=255,255,0>完全勝利!!</color><br>ステージクリア経験値<flash>ゲット！！</flash><br>「${itemName}+${itemNum}」
+ScatCPU_message	<color=255,0,255>ニャンピュータ</color><br><color=0,0,0>ネコ型CPUが戦闘をやってくれます<br>ネコ型なので性能は期待できない<br>アイコンを追加タップすると性能が超アップして<br>「CLEAR!」ステージの戦闘をスキップできます</color>
+ScatCPU_error1	戦闘スキップ可能回数が上限に達しています<br>スキップ可能回数は翌日の0時に全回復します
+ScatCPU_error2	端末時刻が変更された可能性があります<br>しばらくの間、戦闘スキップは使用できません
+ScatCPU_error3	ニャンピュータが不足しています<br>アイテムショップに移動しますか？
+ScatCPU_error4	${itemName1}を<flash>${itemNum1}個</flash>使用して<br>戦闘スキップを開始しますか？<br><color=255,255,0>採点報酬ステージの「採点報酬」はゲットできません</color><br>（本日のスキップ可能回数残り ${itemNum2}回）
+ScatCPU_error5	ニャンピュータ使い放題中はニャンピュータの消費なし！<br>戦闘スキップを開始しますか？<br><color=255,255,0>採点報酬ステージの「採点報酬」はゲットできません</color><br>（本日のスキップ可能回数残り ${itemNum2}回）
+ScatCPU_error6	${itemName1}を<flash>${itemNum1}個</flash>使用して<br>戦闘スキップを開始しますか？<br><color=255,255,0>戦闘スキップではEXステージは発生しません</color><br>（本日のスキップ可能回数残り ${itemNum2}回）
+ScatCPU_error7	ニャンピュータ使い放題中はニャンピュータの消費なし！<br>戦闘スキップを開始しますか？<br><color=255,255,0>戦闘スキップではEXステージは発生しません</color><br>（本日のスキップ可能回数残り ${itemNum2}回）
+ScatCPU_error8	未クリアステージのため戦闘スキップは使用できません
+ScatCPU_error9	このステージは戦闘スキップできないにゃ<br>自分の力でがんばるにゃ
