@@ -1205,7 +1205,7 @@ fragment_message	플래티넘 조각<br>10개를 모으면 플래티넘 티켓 1
 fragment_bonus	지금 11회 연속 뽑기를 돌리면<br>플래티넘 조각 1개를 선물!<br>10개를 모으면<flash>플래티넘 티켓</flash>을 1장 획득할 수 있습니다.
 equipment_error	이 본능 구슬은 「%@에 %@」의 효과를 가진<br>캐릭터에만 장착할 수 있습니다.
 scratch_message	「%s」 %d개 획득!
-scratch_SNS_000	#냥코스크래치복권 에서 고양이 통조림 %d개 획득했다냥!<br>기간 중, 매주 도전 가능! 매주 참가하여 더 많은 고양이 통조림을 획득하자냥~!<br><br>#냥코대전쟁 #냥코스크래치 #고양이의여름2022
+scratch_SNS_000	#냥코스크래치복권 에서 고양이 통조림 %d개 획득했다냥!<br>기간 중, 매주 도전 가능! 매주 참가하여 더 많은 고양이 통조림을 획득하자냥~!<br><br>#냥코대전쟁 #냥코스크래치 #고양이의여름2023
 item_pack_name_39	감사 팩 구입
 potential_skill_name57	속성 악마
 assault_skip	【피로가 조금 회복되었다냥】<br><flash>클리어 가능 횟수가 1 회복되었습니다!</flash><br>바로 도전 가능합니다<br><color=255,255,0>클리어 가능 횟수 1/${countNum} ${assaultWord}</color>
@@ -1386,3 +1386,24 @@ stage_restriction_charagroup_9	고양이
 potential_skill_name65	소열파
 talk_004_push	고양이 기지 〇✕ 퀴즈 다음 문제를 맞혀보자냥~
 slot_SNS_002	#냥코슬롯 으로 고양이 통조림 %d개 획득했다냥! <br><br>#냥코대전쟁 #9주년
+stageskip_message_2	거대 바・다레오파드 강습 ${stageName1}를(을) 클리어!<br>다음 도전에서는 <flash>${stageName2}</flash>부터 시작합니다.
+stageskip_message_3	자이언트 블랙 빠옹 강습 ${stageName1}을(를) 클리어!<br>다음 도전에서는 <flash>${stageName2}</flash>부터 시작합니다.
+stageskip_message_4	슈퍼 나나나난나방 강습 ${stageName1}을(를)  클리어!<br>다음 도전에서는 <flash>${stageName2}</flash>부터 시작합니다.
+stageskip_message_5	빅 하앜마양 강습 ${stageName1}를(을) 클리어!<br>다음 도전에서는 <flash>${stageName2}</flash>부터 시작합니다.
+stageskip_message_6	대천사 엑스엘 강습 ${stageName1}를(을) 클리어!<br>다음 도전에서는 <flash>${stageName2}</flash>부터 시작합니다.
+stageskip_message_7	빅펜 Z 강습 ${stageName1}를(을) 클리어!<br>다음 도전에서는 <flash>${stageName2}</flash>부터 시작합니다.
+stageskip_message_8	오멘즈 강습 ${stageName1}를(을)  클리어!<br>다음 도전에서는 <flash>${stageName2}</flash>부터 시작합니다.
+unlock_popup_message_138	<flash>「야옹컴」 전투 스킵 기능이 해방!</flash><br>야옹컴 선택 상태에서 아이콘을 한번 더 탭하고<br>이미 클리어 한 스테이지를 플레이하면<br>전투를 스킵하고 보수를 획득할 수 있습니다.<br>※일부 스테이지에서는 사용 불가
+ScatCPU_info1	${itemName1}를(을) <flash>${itemNum1}개</flash> 사용하여<br>전투를 스킵하시겠습니까?<br>(오늘의 스킵 가능 횟수 ${itemNum2}번 남음)
+ScatCPU_info2	<flash>야옹컴 무제한 사용 중에는 야옹컴이 소비되지 않습니다.</flash><br>전투를 스킵하시겠습니까?<br>(오늘의 스킵 가능 횟수 ${itemNum2}번 남음)
+ScatCPU_XPdrop	<color=255,255,0>완전 승리!!</color><br>스테이지 클리어 경험치 <flash>획득!!</flash><br>「${itemName} + ${itemNum}」
+ScatCPU_message	<color=255,0,255>야옹컴</color><br><color=0,0,0>고양이형 CPU가 전투를 대신 해줍니다<br>단, 고양이형이므로 성능은...<br>아이콘을 한번 더 탭하면 성능이 대폭 업그레이드!<br>「CLEAR!」 스테이지의 전투를 스킵할 수 있습니다.</color>
+ScatCPU_error1	전투 스킵 가능 횟수를 초과하였습니다.<br>스킵 가능 횟수는 다음날 0시에 리셋됩니다.
+ScatCPU_error2	단말기 시간이 변경되었을 가능성이 있습니다.<br>일정 시간 동안 전투 스킵을 사용할 수 없습니다.
+ScatCPU_error3	야옹컴이 부족합니다.<br>아이템 샵으로 이동하시겠습니까?
+ScatCPU_error4	${itemName1}를(을) <flash>${itemNum1}개</flash> 사용하여<br>전투를 스킵하시겠습니까?<br><color=255,255,0>스코어 보상 스테이지의 「스코어 보상」은 획득할 수 없습니다.</color><br>(오늘의 스킵 가능 횟수 ${itemNum2}번 남음)
+ScatCPU_error5	야옹컴 무제한 사용 중에는 야옹컴이 소비되지 않습니다.<br>전투를 스킵하시겠습니까?<br><color=255,255,0>스코어 보상 스테이지의 「스코어 보상」은 획득할 수 없습니다.</color><br>(오늘의 스킵 가능 횟수 ${itemNum2}번 남음)
+ScatCPU_error6	${itemName1}를(을) <flash>${itemNum1}개</flash> 사용하여<br>전투를 스킵하시겠습니까?<br><color=255,255,0>전투 스킵 시 EX스테이지는 출현하지 않습니다.</color><br>(오늘의 스킵 가능 횟수 ${itemNum2}번 남음)
+ScatCPU_error7	야옹컴 무제한 사용 중에는 야옹컴이 소비되지 않습니다.<br>전투를 스킵하시겠습니까?<br><color=255,255,0>전투 스킵 시 EX스테이지는 출현하지 않습니다.</color><br>(오늘의 스킵 가능 횟수 ${itemNum2}번 남음)
+ScatCPU_error8	아직 클리어 하지 않아 전투 스킵을 사용할 수 없습니다.
+ScatCPU_error9	이 스테이지는 전투 스킵을 할 수 없다냥.<br>화이팅해서 플레이하자냥!

@@ -908,6 +908,7 @@
     },
     "1282": {
       "eventWeight": 2,
+      "priority": 2,
       "FusumaOpenOffsetX": 0,
       "FusumaOpenOffsetY": 458,
       "FusumaImgPNG": "img009_S_282.png",
@@ -920,6 +921,7 @@
     },
     "1283": {
       "eventWeight": 2,
+      "priority": 2,
       "FusumaOpenOffsetX": 0,
       "FusumaOpenOffsetY": 458,
       "FusumaImgPNG": "img009_S_282.png",
@@ -958,6 +960,8 @@
       "NekoBageImg": "A_052"
     },
     "1293": {
+      "eventWeight": 1,
+      "priority": 1,
       "FusumaOpenOffsetX": 0,
       "FusumaOpenOffsetY": 458,
       "FusumaImgPNG": "img009_S_293.png",
@@ -1133,13 +1137,3 @@
     }
   }
 }
-
-
-
-
-
-
-
-
-
-

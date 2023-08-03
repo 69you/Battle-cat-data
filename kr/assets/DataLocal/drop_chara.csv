@@ -188,6 +188,7 @@ stageDropCharaID,m_iUnitFreeGift2Save,charaID
 -1,211,622
 1056,212,623
 1057,213,630
+-1,214,635
 1058,219,653
 1059,220,656
 -1,221,658
@@ -208,3 +209,6 @@ stageDropCharaID,m_iUnitFreeGift2Save,charaID
 -1,240,706
 -1,241,707
 1065,242,708
+1066,243,718
+-1,244,716
+-1,245,717
