@@ -774,7 +774,7 @@ calendar_99h	99小時以上
 legendquest_tutorial1	歡迎來到傳奇尋寶記！<br>在這裡的關卡跟編成內容<br>都是隨機選出的唷！
 legendquest_tutorial2	需要有王冠才可以挑戰！<br>王冠可在傳奇故事地圖的關卡等級1～4<br>中各通關後可以獲得！
 legendquest_tutorial3	在傳奇尋寶記中脫離戰鬥時<br>王冠、統率力、道具皆不會歸還<br>準備好後再開始挑戰吧！
-legendquest_Cancel	確定要脫離戰鬥嗎？<br><color=255,0,0>王冠、統率力、道具皆不會歸還</color>
+legendquest_Cancel	王冠不足<br>請挑戰傳奇故事中的關卡<br>通關來蒐集王冠吧！
 legendquest_warning	王冠不足<br>請挑戰傳奇故事中的關卡<br>通關來蒐集王冠吧！
 legendquest_popup	<flash>傳奇尋寶記</flash><br>以隨機選出的關卡與角色來出戰吧！<br>※可消費統率力與傳奇故事中獲得的王冠來挑戰<br>※所需的王冠數量會隨關卡增加<br>※脫離戰鬥時王冠、統率力、道具皆不會歸還
 score_sns	“貓咪軍團”在%@中，獲得了%d分！%s %s
@@ -1227,7 +1227,7 @@ fragment_message	蒐集白金券碎片<br>10片即可兌換白金券1張<br>現�
 fragment_bonus	只有現在使用11次連續轉蛋<br>就可獲得白金券碎片1片！<br>蒐集10片<flash>白金券</flash>1張即可入手喔
 equipment_error	這個本能珠珠只可裝著於有對<br>「%@ %@」效果的角色上
 scratch_message	「%s」%d個已入手！
-scratch_SNS_000	在 #貓咪刮刮樂 中獲得%d個貓罐頭啦！<br>期間中每週都可挑戰！每週來玩刮刮樂帶走更多貓罐頭吧～！<br><br>#貓咪大戰爭 #貓咪刮刮樂 #貓咪暑假2022
+scratch_SNS_000	在 #貓咪刮刮樂 中獲得%d個貓罐頭啦！<br>期間中每週都可挑戰！每週來玩刮刮樂帶走更多貓罐頭吧～！<br><br>#貓咪大戰爭 #貓咪刮刮樂 #貓咪暑假2023
 item_pack_name_39	購買 感謝禮包
 potential_skill_name57	屬性　惡魔
 assault_skip	【貓咪稍微恢復精神了】<br><flash>可通關次數回復1次！</flash><br>可以立刻挑戰關卡！<br><color=255,255,0>可通關次數 1/${countNum}${assaultWord}</color>
@@ -1263,8 +1263,8 @@ settlement_error	尚未完成付款。\n付款完成後將會發送商品。
 tower_sns_006	“貓咪軍團”入侵了異界貓咪塔的%@了。%s %s
 scheme_popup_96	<flash>填問卷好禮！<br>獲得%@%@個！</flash>
 skip_description	前次已通過${stageName1}所以<br>這次將可從<flash>${stageName2}</flash>開始
-stageskip_message_0	通過風雲貓咪塔${stageName1}吧！<br>下次挑戰將可從<flash>${stageName2}</flash>開始
-stageskip_message_1	通過異界貓咪塔${stageName1}吧！<br>下次挑戰將可從<flash>${stageName2}</flash>開始
+stageskip_message_0	已通過風雲貓咪塔 ${stageName1}！<br>下次挑戰將可從<flash>${stageName2}</flash>開始
+stageskip_message_1	已通過異界貓咪塔 ${stageName1}！<br>下次挑戰將可從<flash>${stageName2}</flash>開始
 unlock_popup_message_106	<flash>宇宙篇全部關卡過關獎勵！</flash><br>因為打倒了神所以「貓咪超人」出現了！</flash><br>可由貓咪轉蛋＋中獲得
 unlock_popup_message_107	<flash>「貓咪轉蛋+」解放了！</flash><br>貓咪儲藏庫可保存的角色64組 → <color=255,255,0>128組</color><br>基本角色的交換NP 1 → <color=255,255,0>2</color>
 scratch_SNS_001	
@@ -1386,3 +1386,24 @@ potential_skill_name63	超生命體特效
 potential_skill_name64	超獸特效
 stage_restriction_charagroup_9	貓咪
 potential_skill_name65	小烈波
+stageskip_message_2	已通過巨大生物強襲 ${stageName1}！<br>下次挑戰將可從<flash>${stageName2}</flash>開始
+stageskip_message_3	已通過巨象黑藏強襲 ${stageName1}！<br>下次挑戰將可從<flash>${stageName2}</flash>開始
+stageskip_message_4	已通過巨蛾蛾蛾強襲 ${stageName1}！<br>下次挑戰將可從<flash>${stageName2}</flash>開始
+stageskip_message_5	已通過巨大河馬星人強襲 ${stageName1}！<br>下次挑戰將可從<flash>${stageName2}</flash>開始
+stageskip_message_6	已通過特大號大天使強襲 ${stageName1}！<br>下次挑戰將可從<flash>${stageName2}</flash>開始
+stageskip_message_7	已通過巨大企鵝大哥Z強襲 ${stageName1}！<br>下次挑戰將可從<flash>${stageName2}</flash>開始
+stageskip_message_8	已通過巨大三惡魔強襲 ${stageName1}！<br>下次挑戰將可從<flash>${stageName2}</flash>開始
+unlock_popup_message_138	<flash>「貓型電腦」的跳過戰鬥功能開放了！</flash><br>在點選兩次貓型電腦的狀態下，<br>選擇已通關的關卡並出擊<br>就可跳過戰鬥並獲得獎勵。<br>※部分關卡不適用此功能。
+ScatCPU_info1	要使用<flash>${itemNum1}個</flash>${itemName1}來跳過戰鬥嗎？<br>（今天還可以使用：${itemNum2}次）
+ScatCPU_info2	<flash>貓型電腦無限使用期間，將不會消費貓型電腦！</flash><br>要跳過戰鬥嗎？<br>（今天還可以使用：${itemNum}次）
+ScatCPU_XPdrop	<color=255,255,0>大獲全勝！！</color><br>通關經驗值<flash>入手啦！！</flash><br>「${itemName}+${itemNum}」
+ScatCPU_message	<color=255,0,255>貓型電腦</color><br><color=0,0,0>貓型CPU會幫你進行戰鬥<br>因為是貓型所以不能抱持太大期望<br>點擊2次時可大幅加強其功能<br>能在標示「CLEAR!」的關卡跳過戰鬥</color>
+ScatCPU_error1	跳過戰鬥功能的使用次數已達上限<br>使用次數將於明天的0點重置
+ScatCPU_error2	由於行動裝置的時間有所更動<br>您暫時無法使用跳過戰鬥功能
+ScatCPU_error3	貓型電腦不足<br>要前往道具商店購買嗎？
+ScatCPU_error4	要使用<flash>${itemNum1}個</flash>${itemName1}來跳過戰鬥嗎？<br><color=255,255,0>將無法取得積分獎勵關卡的「積分獎勵」</color><br>（今天還可以使用：${itemNum2}次）
+ScatCPU_error5	<flash>貓型電腦無限使用期間，將不會消費貓型電腦！</flash><br>要跳過戰鬥嗎？<br><color=255,255,0>將無法取得積分獎勵關卡的「積分獎勵」</color><br>（今天還可以使用：${itemNum2}次）
+ScatCPU_error6	要使用<flash>${itemNum1}個</flash>${itemName1}來跳過戰鬥嗎？<br><color=255,255,0>使用跳過戰鬥時將不會進入EX關卡</color><br>（今天還可以使用：${itemNum2}次）
+ScatCPU_error7	<flash>貓型電腦無限使用期間，將不會消費貓型電腦！</flash><br>要跳過戰鬥嗎？<br><color=255,255,0>使用跳過戰鬥時將不會進入EX關卡</color><br>（今天還可以使用：${itemNum2}次）
+ScatCPU_error8	由於尚未通過此關卡，無法跳過戰鬥
+ScatCPU_error9	此關卡無法使用戰鬥跳過功能<br>靠自己的實力來過關吧！

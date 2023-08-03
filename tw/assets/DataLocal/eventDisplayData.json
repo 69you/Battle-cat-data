@@ -985,6 +985,8 @@
       "NekoBageImg": "A_052"
     },
     "1293": {
+      "eventWeight": 1,
+      "priority": 1,
       "FusumaOpenOffsetX": 0,
       "FusumaOpenOffsetY": 458,
       "FusumaImgPNG": "img009_S_293.png",

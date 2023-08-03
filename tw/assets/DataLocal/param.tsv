@@ -25,3 +25,9 @@ logo_gimmick_probability	25
 logo_gimmick_increase	10
 battle_demon_summon_frame	50
 battle_demon_summon_se_frame	18
+battle_castle_x0	130
+battle_castle_y0	-30
+battle_castle_x1	-130
+battle_castle_y1	-30
+battle_castle_x2	0
+battle_castle_y2	0
