@@ -48,7 +48,7 @@
 %s (Metálico)|Una organización de cuyo nombre no quiero acordarme|decidió experimentar y convertir su cuerpo en metálico.|Parece que su debilidad son los golpes críticos.||
 %s (Rojo)|Es familia de Cerdi.|Es la segunda reina del imperio cerdil.|En unos días, la venderán en paquetitos|de beicon ecológico (pero ella aún no lo sabe).|
 %s (Rojo/Volador)|Es un autor famoso y una figura de referencia|para Profe Bun Bun. Sus trabajos más importantes|son «Castigo y prejuicio» (1868)|y «Los penitentes» (1875).|
-%s(Volador/Negro)|EL AMOR NOS LLEVA AL CIELO. #AMAMUCHO|Eso es lo que dice justo antes de dar un sopapo.|Algunos dicen que se ven otros mundos cuando te pega.|Esto... Ahora mismo no encontramos la fuente de esa cita.|
+%s (Volador/Negro)|EL AMOR NOS LLEVA AL CIELO. #AMAMUCHO|Eso es lo que dice justo antes de dar un sopapo.|Algunos dicen que se ven otros mundos cuando te pega.|Esto... Ahora mismo no encontramos la fuente de esa cita.|
 %s (Negro)|¡Por fin Gori ha encontrado curro!|Ha dejado atrás su antigua vida|y está deseando ver a su familia|otra vez cuando vuelvan.|
 %s (Negro)|«Ya has muerto». (KGS).|Cree que siempre dice frases célebres.|Me da un poco de pena su cría, que tiene|que aguantarlo todo el rato.|
 %s (Negro)|Un director venido a menos al que solo|se le conoce por haber plagiado pelis famosas.|Sus trabajos son auténticos fracasos y solo han|alcanzado cierta notoriedad sus escenas obscenas.|
@@ -497,7 +497,7 @@
 %s (Reliquia)|Guardianes de la naturaleza primigenia.|Ningún intruso ha salido vivo de su bosque|sagrado. Y solo quienes sean capaces de|vencerlos verán qué se esconde tras la máscara.|
 %s (Metálico)|Kodri se presentó voluntario para un experimento de|ciborgización para ser el miembro más poderoso de su clan.|El problema fue que se acabó el presupuesto a medio proyecto,|pero aun así, su nuevo aspecto ha hecho que merezca la pena.|
 %s (Volador)|Este pavo también es un vendedor de categoría.|En octubre fue a visitar a un quiromante y recibió|muy malas noticias sobre su futuro. Por eso ahora|se está entrenando las alas para salir huyendo.|
-%s (Rojo) (Colosal)|Un laboratorio secreto se dedicó a modificar genoma|de forma poco ética para crear un Señor Foca supremo. |Sus ataques desgastan y paralizan, así que cuidadín.|Su letalidad aumenta con cada batalla.|
+%s (Rojo/Coloso)|Un laboratorio secreto se dedicó a modificar genoma|de forma poco ética para crear un Señor Foca supremo. |Sus ataques desgastan y paralizan, así que cuidadín.|Su letalidad aumenta con cada batalla.|
 |||||
 |||||
 |||||
@@ -508,12 +508,12 @@
 |||||
 |||||
 |||||
-%s (Negro) (Colosal)|Un laboratorio secreto se dedicó a modificar genoma|de forma poco ética para crear un L. Fante Negro|enorme, muy agresivo y con ataques que ralentizan.|Su letalidad aumenta con cada batalla.|
+%s (Negro/Colosal)|Un laboratorio secreto se dedicó a modificar genoma|de forma poco ética para crear un L. Fante Negro|enorme, muy agresivo y con ataques que ralentizan.|Su letalidad aumenta con cada batalla.|
 %s (Zombi)|Un ser de tipo Clionel que sobrevivió a la extinción masiva|de los océanos contaminados de su mundo.|Yo no me acercaría a él ni a sus hijos, por si acaso.|Los gatos se quedan paralizados de miedo al verlo.|
 %s (Zombi)|Es el sobrino favorito de Ziclón.|Tiene la rudeza de su madre y el carácter tímido|de su padre combinados en una tormentilla|que se esconde a la primera señal de peligro.|
 %s (Ángel)|Este can fiel hasta el final espera en las puertas|del cielo a que llegue su amo. Su famosa estatua|en la que está lanzando una réplica es el punto|de reunión por excelencia para los adolescentes.|
 %s|Un bebé veterano con más de 7 años de experiencia en temas|de infancia. Ha perfeccionado el arte de la rabieta y ya|es capaz de dejar inconscientes a los enemigos. Lo han|rechazado en dos guarderías de élite por su talento.|
-%s (Volador) (Colosal)|Un laboratorio secreto se dedicó a modificar genoma|de forma poco ética para crear un Pol Illa supremo.|Bate sus enormes alas para repeler a su presa.|Su letalidad aumenta con cada batalla.|
+%s (Volador/Colosal)|Un laboratorio secreto se dedicó a modificar genoma|de forma poco ética para crear un Pol Illa supremo.|Bate sus enormes alas para repeler a su presa.|Su letalidad aumenta con cada batalla.|
 %s|El jefe de un poderoso clan que en teoría está jubilado,|pero en realidad sigue trabajando. Construyó un escondite|en lo alto de una torre para estar a solas con su novia,|pero los gatos los interrumpieron de la forma más grosera.|
 %s (Metálico)|Entrenador y mascota del equipo favorito de la liga, los|Koalas Kampeones. Tiene tendencia a liarla cuando su equipo|va perdiendo, lo que ha resultado en la repetición de varios|partidos. Sus técnicas de entrenamiento son aterradoras.|
 |||||
@@ -523,7 +523,7 @@
 |||||
 |||||
 |||||
-%s (Alien) (Colosal)|Un laboratorio secreto se dedicó a modificar genoma|de forma poco ética para crear un Hipo Alien enorme.|Ralentiza a aquellos que se resisten.|Su letalidad aumenta con cada batalla.|
+%s (Alien/Colosal)|Un laboratorio secreto se dedicó a modificar genoma|de forma poco ética para crear un Hipo Alien enorme.|Ralentiza a aquellos que se resisten.|Su letalidad aumenta con cada batalla.|
 %s (Reliquia)|Sujeto 002 (organismo paleobacterial)|Potencial de combate: incalculable.|Pese a su aspecto, carece del rasgo volador.|Su potencia es inversamente proporcional a su capacidad.|
 %s (Zombi/Volador)|Un ave tan mazada que puede cruzar|el río Estigia a nado cuando le viene en gana.|Le da rabia no poder evitar que se le pudra la masa|muscular que consiguió con tanto esfuerzo y sudor.|
 |||||
@@ -591,8 +591,8 @@
 |||||
 |||||
 %s (Rojo)|H. Nah se enganchó a la gatamina [C]|de contrabando y perdió el sentido de la realidad.|Afirma ser un berserker nacido para luchar.|Sus réplicas mantienen a sus enemigos a distancia.|
-%s (Ángel) (Colosal)|Un laboratorio secreto se dedicó a modificar genoma|de forma poco ética para crear un Sr. Ángel superior.|Guía a los pecadores desgastándolos y abduciéndolos.|Su letalidad aumenta con cada batalla.|
-%s (Zombi) (Colosal)|Un laboratorio secreto se dedicó a editar genoma|de forma poco ética para crear un Ping enorme.|Lanza toxinas hacia todas partes.|Su letalidad aumenta con cada batalla.|
+%s (Ángel/Coloso)|Un laboratorio secreto se dedicó a modificar genoma|de forma poco ética para crear un Sr. Ángel superior.|Guía a los pecadores desgastándolos y abduciéndolos.|Su letalidad aumenta con cada batalla.|
+%s (Zombi/Colosal)|Un laboratorio secreto se dedicó a editar genoma|de forma poco ética para crear un Ping enorme.|Lanza toxinas hacia todas partes.|Su letalidad aumenta con cada batalla.|
 |||||
 |||||
 |||||
@@ -602,18 +602,18 @@
 |||||
 |||||
 %s (Mastodonte)|Mientras caminaba por los trópicos,|este Chucho oyó la llamada de la naturaleza,|así que dejó su trabajo y a su hermano gemelo|y se lanzó a buscar la ola perfecta.|
-%s (Rojo/Mastodonte)|Un pato que regresó a la naturaleza y por poco|se convierte en fuagrás. Bate su cresta|con violencia y ataca con su enorme pico.|Es la más feroz de todas las bestias.|
+%s (Rojo/Mastod.)|Un pato que regresó a la naturaleza y por poco|se convierte en fuagrás. Bate su cresta|con violencia y ataca con su enorme pico.|Es la más feroz de todas las bestias.|
 %s (Volador/Mastodonte)|Un Lechuzo que vio despertar su lado salvaje|a la edad de 79 años. Este viejuno visita volcanes|y libera años de rabia contenida en forma de|una bola de luz. Puede generar réplicas.|
 %s (Alien/Mastodonte)|Un Ermitaño Tacaño que ha obtenido el poder irracional|del amor, así como un sitio bonito en el que vivir.|Con sus garras gigantes puede ralentizar a enemigos|e infligirles daño con su multiataque de largo alcance.|
 %s (Rojo/Coloso)|Este conejito huyó de un laboratorio secreto que se dedicaba|a modificar genoma de forma poco ética. Durante su ausencia,|sus negocios se fueron a pique. No obstante, la joya de su|trasero predice un futuro lleno de buena fortuna.|
 %s|El nieto del Chucho, que viene del futuro para cambiar|el pasado en el que su abuelo suspendía un examen.|Las preguntas del examen de acceso son tan diferentes|que le está costando bastante lograr su objetivo.|
 %s (Reliquia/Volador)|Un arma de destrucción construida por los antiguos.|El rayo que dispara es capaz de traer la ruina al mundo.|Un sabio lo tiró al fondo del océano, pero ahora parece|que ha flotado hasta la superficie.|
-%s (Aku/Mastodonte)|Un mastodonte muy poderoso que se volvió|demoníaco después de perder su hogar. No le |gustan los árboles de la jungla en la que vive.|Puede disparar lanzas paralizantes con la cola.|
+%s (Aku/Mastod.)|Un mastodonte muy poderoso que se volvió|demoníaco después de perder su hogar. No le |gustan los árboles de la jungla en la que vive.|Puede disparar lanzas paralizantes con la cola.|
 %s (Negro/Mastodonte)|El tercero de los hermanos pájaros. Su hogar|es la oscuridad, donde cultiva peligrosas plantas,|o eso dicen por ahí. Puede atacar repetidamente|con potentes picotazos e infligir toxicidad.|
 %s (Reliquia)|Un perro creado a partir de barro para proteger hogares.|Tiene varios mecanismos de interferencia y bloqueo|para que nadie se acerque a la casa.|Lo mejor es que se parece muchísimo a su dueño.|
-%s (Ángel/Mastodonte)|Es el rey de la naturaleza, pero tiene un rostro aterrador|que contrasta con su gran corazón y su deseo de proteger|el medio ambiente. Provoca oleadas y réplicas y, con su puño|sagrado, atiza a los malvados cazadores furtivos.|
-%s (Zombi) (Mastod.)|Hormiga que trabajó mucho para reunir comida|para el invierno y que comió de más y ahora|deambula por la zona entre la vida y la muerte.|Si se pone nerviosa, explota.|
-%s (Ángel) (Coloso)|Hijo de un empresario que consiguió trabajo|por sus conexiones. Se operó el genoma para evitar|que lo comparasen con su exitoso padre.|Piensa presentarse pronto a las elecciones.|
+%s (Ángel/Mastod.)|Es el rey de la naturaleza, pero tiene un rostro aterrador|que contrasta con su gran corazón y su deseo de proteger|el medio ambiente. Provoca oleadas y réplicas y, con su puño|sagrado, atiza a los malvados cazadores furtivos.|
+%s (Zombi/Mastod.)|Hormiga que trabajó mucho para reunir comida|para el invierno y que comió de más y ahora|deambula por la zona entre la vida y la muerte.|Si se pone nerviosa, explota.|
+%s (Ángel/Coloso)|Hijo de un empresario que consiguió trabajo|por sus conexiones. Se operó el genoma para evitar|que lo comparasen con su exitoso padre.|Piensa presentarse pronto a las elecciones.|
 【%s】|仮1|仮2|仮3|仮4|
 【%s】|仮1|仮2|仮3|仮4|
 【%s】|仮1|仮2|仮3|仮4|
@@ -625,28 +625,30 @@
 %s (Mastodonte)|Pájaro ancestral encubierto en truenos que vive en|una torre en el cielo. Las leyendas dicen que es una|vista para contemplar, pero esconde una personalidad violenta|que se vuelve más feroz cuando está acorralado.|
 【%s】|仮1|仮2|仮3|仮4|
 【%s】|仮1|仮2|仮3|仮4|
-【%s】 (Reliquia/Mastod.)|Pata vieja acompañada de sus patitos.|Tiende a perder los estribos. Madre estricta|que cría a sus patitos para que algún día se vayan|del nido. Envía dinero al patito más pequeño.|
-【%s】 (Reliquia/Mastod.)|Simio grande que protege los Bosques Sagrados|desde tiempos inmemoriales. Considerado el padre|de los humanos. Resistente a mastodontes|con la maldición antigua.|
-【%s】 (Reliquia/Coloso)|Absorbe la energía que lo compone todo.|Si despierta todo su poder, arrincona sin piedad|a todo lo que se mueve con sus enormes puños|y acaba con su presa de manera implacable.|
-【%s】 (Volador)|Deambula por los mundos dejando tras de sí |destrucción y creación.|Su composición es tan misteriosa como su poder.|Es inmune a todas las penalizaciones.|
+%s (Reliquia/Mastod.)|Pata vieja acompañada de sus patitos.|Tiende a perder los estribos. Madre estricta|que cría a sus patitos para que algún día se vayan|del nido. Envía dinero al patito más pequeño.|
+%s (Reliquia/Mastod.)|Simio grande que protege los Bosques Sagrados|desde tiempos inmemoriales. Considerado el padre|de los humanos. Resistente a mastodontes|con la maldición antigua.|
+%s (Reliquia/Coloso)|Absorbe la energía que lo compone todo.|Si despierta todo su poder, arrincona sin piedad|a todo lo que se mueve con sus enormes puños|y acaba con su presa de manera implacable.|
+%s (Volador)|Deambula por los mundos dejando tras de sí |destrucción y creación.|Su composición es tan misteriosa como su poder.|Es inmune a todas las penalizaciones.|
 【%s】|仮1|仮2|仮3|仮4|
 【%s】|仮1|仮2|仮3|仮4|
 【%s】|仮1|仮2|仮3|仮4|
-【%s】(Aku) (Mastod.)|Un alabado escultor que vive en la naturaleza. |Hizo un contrato aku para ganar visión de Rayos X y|esculpir mejor estatuas desnudas, pero ahora|solo ve los huesos a través de la ropa y la piel...|
+%s (Aku/Mastod.)|Un alabado escultor que vive en la naturaleza. |Hizo un contrato aku para ganar visión de Rayos X y|esculpir mejor estatuas desnudas, pero ahora|solo ve los huesos a través de la ropa y la piel...|
 【%s】|仮1|仮2|仮3|仮4|
-【%s】(Aku)|Una influencer superfamosa que atrae|todo tipo de atención. Vive en el lujo absoluto.|Es famosa porque tiene un estilazo que causa sensación.|Dona todo lo que gana a la beneficencia.|
-【%s】(Aku) (Coloso)|Un laboratorio secreto se dedicó a modificar genoma|para mejorar a los Niños Cerbero, de tamaño inigualable,|con ataques de réplica e inmovilizadores.|Su letalidad aumenta con cada batalla.|
-【%s】(Volador)|Hermano pequeño de Ciclón Blanco. Estudia succión|y durabilidad en la universidad. Como ha habido un|apogeo en las ventas de robots aspiradoras, tiene|problemas para encontrar trabajo.|
-【%s】(Rojo) (Mast.)|Un pegaso gigante con el poder de encender|los cielos y arrasar con la tierra. Cualquiera que ponga|los ojos en él es devorado por minioleadas y condenado|a morir entre llamas.|
+%s (Aku)|Una influencer superfamosa que atrae|todo tipo de atención. Vive en el lujo absoluto.|Es famosa porque tiene un estilazo que causa sensación.|Dona todo lo que gana a la beneficencia.|
+%s (Aku/Coloso)|Un laboratorio secreto se dedicó a modificar genoma|para mejorar a los Niños Cerbero, de tamaño inigualable,|con ataques de réplica e inmovilizadores.|Su letalidad aumenta con cada batalla.|
+%s (Volador)|Hermano pequeño de Ciclón Blanco. Estudia succión|y durabilidad en la universidad. Como ha habido un|apogeo en las ventas de robots aspiradoras, tiene|problemas para encontrar trabajo.|
+%s (Rojo/Mastod.)|Un pegaso gigante con el poder de encender|los cielos y arrasar con la tierra. Cualquiera que ponga|los ojos en él es devorado por minioleadas y condenado|a morir entre llamas.|
 %s (Alien/Mastodonte)|Cerdo mascota de la 56.ª reina del Reino Porcino.|Huyó tras soportar demasiados días paseando |con ropa. Mientras disfrutaba de la vida silvestre,|descubrió que la ropa era, en realidad, su propio pelaje.|
 %s (Mastodonte)|Al haberse criado en un mundo tan cruel, no tiene tacto |al tratar con las mujeres. Tras lamerse miles de heridas |producidas por el rechazo femenino, consiguió la fortaleza|necesaria para superar cualquier estado de penalización.|
 %s (Aku)|Después de 560 000 años regresó a nuestro mundo bajo|la forma de un tirano infernal solo para hacerse una foto |para una cita a ciegas. Quiere impresionar a su cita usando|su altura, expediente académico y nivel de azúcar en sangre.|
-【%s】|Una hechicera espantosa que vive en lo más profundo|de un laberinto. Las víctimas que caen en su trampa acaban|escuchando historias larguísimas sin un final satisfactorio|que van sobre su hermano mayor en los reinos de akus.|
-【%s】|||||
-【%s】|||||
-【%s】|||||
-【%s】|||||
-【%s】|||||
+%s|Una hechicera espantosa que vive en lo más profundo|de un laberinto. Las víctimas que caen en su trampa acaban|escuchando historias larguísimas sin un final satisfactorio|que van sobre su hermano mayor en los reinos de akus.|
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
 %s (Ángel)|Nutria guardiana del Cielo.|Manda a los indignos|al inframundo con su orbe dorado.|Invoca monstruos con el poder de la réplica.|
 %s (Reliquia/Mastodonte)|El ancestro de toda especie invasora.|Debía eliminar plagas, pero su apetito|voraz hizo que fuera imposible de controlar y|se ha convertido en un peligro para todo lo que lo rodea.|
-【%s】|||||
+%s|||||
+%s (Zombi/Volador/Mast.)|Tras suspender 10 veces la selectividad,|va a pasar de la universidad porque resulta|que los no muertos no necesitan una carrera.|Siempre pensará en qué podría haber sido...|
+%s|Un gran yokai doméstico que vive en los pantanos.|Una fuerza aumentada por su dieta a base de melón|amargo, lo que hace que los enemigos le teman,|pero su mujer lo mantenga a raya.|

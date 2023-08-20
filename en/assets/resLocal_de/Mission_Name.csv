@@ -94,7 +94,7 @@
 9051|Clear "Decisive Battle!" %d times!<br>Clear any Decisive Battle! stage: %d of %d
 9052|Clear "Decisive Battle!" %d times!<br>Clear any Decisive Battle! stage: %d of %d
 9053|Clear "Decisive Battle!" %d times!<br>Clear any Decisive Battle! stage: %d of %d
-9054|Clear a stage using a catcombo with "Eva Angel Killer" effect!<br>Use Shinji and ??? together (after Empire Ch. 1)|Check the Special Missions to access<br>this Evangelion Collab Mission!
+9054|Clear a stage using a catcombo with "Eva Angel Killer" effect!<br>Use Shinji and ??? together (after Empire Ch. 1)|Check the Special Missions to access<br>Evangelion Collab missions!
 9055|Destroy the 4th Angel<br>Encounter this enemy at "State of Emergency"
 9056|Destroy the 6th Angel<br>Encounter this enemy at "Futagoyama Fortress"
 9057|Destroy the 9th Angel<br>Encounter this enemy at "Asuka On Board (Easy)"
@@ -695,29 +695,29 @@
 9280|
 9281|
 9282|
-9283||
-9284|
-9285|
+9283|[F1. „Was ist in der Schachtel?“-Quiz] Rate die versteckte<br>Eventkapsel-Einheit! Tipp: Eine Medaille voller Dank.|Finde diese [F1. „Was ist in der Schachtel?“-Quiz]-Mission<br>in den Spezialmissionen!
+9284|[F1. „Was ist in der Schachtel?“-Quiz] Rate die versteckte<br>Eventkapsel-Einheit! Tipp: Eine Katze, die Unglück bringt.
+9285|[F1. „Was ist in der Schachtel?“-Quiz] Rate die versteckte<br>Eventkapsel-Einheit! Tipp: Zwischen Planeten rasende Ninja.
 9286|
 9287|
-9288||
-9289|
-9290|
-9291|
-9292|
-9293|
-9294||
-9295||
-9296|
-9297|
-9298|
-9299|
-9300|
-9301||
-9302|
-9303|
+9288|[F2. Geo-Quiz] Welches Land ist für Sushi bekannt?<br>Die Antwort ist in diesem Level in Katzenimperium!|Finde diese [F2. Geo-Quiz]-Mission<br>in den Spezialmissionen!
+9289|[F2. Geo-Quiz] Welche Wüste ist die berühmteste Afrikas?<br>Die Antwort ist in diesem Level in Katzenimperium!
+9290|[F2. Geo-Quiz] Woher stammt der Maler Salvador Dali?<br>Schließe dieses Level in Katzenimperium ab!
+9291|[F2. Geo-Quiz] Wo liegt das Dreieck, in dem Flugzeuge<br>verschwinden? Schließe dieses Level in Katzenimperium ab!
+9292|[F2. Geo-Quiz] Welcher Staat ist der größte der USA?<br>Schließe dieses Level in Katzenimperium ab!
+9293|[F2. Geo-Quiz] Umreise die Welt und beantworte<br> alle %d Quizfragen! (%d von %d)
+9294|[F3. Katzenbasis-Quiz]<br>Beantworte alle Quizfragen der Katze!|Finde diese [F3. Katzenbasis-Quiz]-Mission<br>in den Spezialmissionen!
+9295|[F4. Jagd-Quiz] Welcher Feind möchte zur Uni?<br>Besiege diesen Feind in Katzenimperium!|Finde diese [F4. Jagd-Quiz]-Mission<br>in den Spezialmissionen!
+9296|[F4. Jagd-Quiz] Welcher Feind geht auf die Schauspielschule?<br>Besiege diesen Feind in Katzenimperium!
+9297|[F4. Jagd-Quiz] Welcher Feind sammelt Zeitschriften?<br>Besiege diesen Feind in Katzenimperium!
+9298|[F4. Jagd-Quiz] Welcher Feind ist bei der Feuerwehr?<br>Besiege diesen Feind in Katzenimperium!
+9299|[F4. Jagd-Quiz] Welcher Feind hat am Wegesrand einen Kopf gefunden?<br>Besiege diesen Feind in Katzenimperium!
+9300|[F4. Jagd-Quiz] Umreise die Welt und beantworte<br> alle %d Quizfragen! (%d von %d)
+9301|[F5. „Glückssache“-Quiz] Verschenke Glück nach Levelabschluss<br>und öffne die Tür! Schaffe %d Himmel-Level! (%d von %d)|Finde diese [F5. „Glückssache“-Quiz]-Mission<br>in den Spezialmissionen!
+9302|[F5. „Glückssache“-Quiz] Verschenke Glück nach Levelabschluss<br>und öffne die Tür! Schaffe %d Himmel-Level! (%d von %d)
+9303|[F5. „Glückssache“-Quiz] Verschenke Glück nach Levelabschluss<br>und öffne die Tür! Schaffe %d Himmel-Level! (%d von %d)
 9304|
-46|
+46|Mission zum 9. Jubiläum<br>Schließe während dieses Events „Katzenimperium Kap. 1“ ab!
 9305|Schließe Ebene 30 des Höllischen Turms ab.<br>* Belohnung kann nur ein Mal eingefordert werden.|Höllischer Turm-Missionen wurden den Spezialmissionen hinzugefügt.
 47|Bericht der Kaiserin: Aku-Forschung<br>Schließe „Bericht der Kaiserin 1 - 5“-Level jeweils %d Mal ab. (%d/%d abgeschlossen)|„Forschung der Kaiserin“-Missionen wurden<br>dem Hauptmissionen-Abschnitt hinzugefügt!
 9306||
@@ -858,3 +858,19 @@
 9429|Erreiche mehr als 6200 Punkte bei<br>#02 Die Hochzeit der Angst, Level 4!
 9430|Erreiche mehr als 4500 Punkte bei<br>#02 Die Hochzeit der Angst, Level 5!
 9431|Verdiene einen Behemoth-Stein, indem du die Punkte-<br>vorgabe bei #02 Die Hochzeit der Angst, Levels 1–5 erfüllst!
+9432|[F1. Was ist in der Schachtel?] Verdiene alle<br>Überraschungseinheiten aus Eventkapseln! (%d von %d)
+9433|[Ultra-Quiz] Schließe Missionen F1-5 ab und hol dir deinen<br>Preis im Wert von 1 Million (laut des Katzencomputers)!
+60|Schließe %d Behemothjagd-Level zum ersten Mal ab!<br>(Prüfe geeignete Level in der Missionsinfo: %d von %d)
+61|Schließe %d Behemothjagd-Level zum ersten Mal ab!<br>(Prüfe geeignete Level in der Missionsinfo: %d von %d)
+9434||
+9435|
+9436|
+
+
+
+
+
+
+
+
+

@@ -263,6 +263,9 @@ Ricompensa: 5 Occhio di gatto ultra rari!<br>Aumenta il livello max delle tue un
 Ricompensa: 1 pezzo di platino!	//20100_2:ランク20100の達成表示
 Ricompensa: 3 mattoni Z!<br>Usali per sviluppare la tua base nel menu di Ototo!	//20200_2:ランク20200の達成表示
 Ricompensa: 3 piume Z!<br>Usale per sviluppare la tua base nel menu di Ototo!	//20300_2:ランク20300の達成表示
+Ricompensa: 3 pezzi di carbone Z!<br>Usali per sviluppare la tua base nel menu di Ototo!	//20400_2:ランク20400の達成表示
+Ricompensa: 3 ingranaggi Z!<br>Usali per sviluppare la tua base nel menu di Ototo!	//20500_2:ランク20500の達成表示
+Ricompensa: 3 pezzi di oro Z!<br>Usali per sviluppare la tua base nel menu di Ototo!	//20600_2:ランク20600の達成表示
 	
 	//読み込み可能行数400行まで（2018/11/12）
 	//xxx_1は目標ユーザーランクの内容表示、xxx_2はユーザーランク達成表示

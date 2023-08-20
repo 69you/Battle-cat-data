@@ -497,7 +497,7 @@
 %s (Relikt)|Wächter der unangetasteten Wildnis.|Niemand, der je in ihren heiligen Wald eingedrungen ist, hat|ihn lebend wieder verlassen. Nur jene, die sie besiegen,|dürfen einen Blick hinter die Maske wagen.|
 %s (Eisern)|Kroko hat sich freiwillig gemeldet, um zum Cyborg und damit|zum mächtigsten Mitglied seines Clans zu werden. Leider ist|mittendrin das Geld ausgegangen, aber er schafft,|dass es ganz ordentlich aussieht.|
 %s (Fliegend)|Dieser Truthahn ist nebenbei ein hervorragender Verkäufer.|Im Oktober ließ er sich aus der Hand lesen und hat sehr|schlechte Neuigkeiten über seine Zukunft erfahren.|Er versucht ihr zu entkommen, indem er davonflattert.|
-%s (Rot) (Kolossal)|Ein Geheimlabor hat unethische Genmanipulation genutzt, um|eine überlegene Robbe zu schaffen. Höchste Vorsicht ist vor |Schwächen- und Einfrieren-Angriffen geboten.|Tödlichkeit steigt mit jedem Kampf.|
+%s (Rot/Kolossal)|Ein Geheimlabor hat unethische Genmanipulation genutzt, um|eine überlegene Robbe zu schaffen. Höchste Vorsicht ist vor |Schwächen- und Einfrieren-Angriffen geboten.|Tödlichkeit steigt mit jedem Kampf.|
 |||||
 |||||
 |||||
@@ -508,12 +508,12 @@
 |||||
 |||||
 |||||
-%s (Schwarz) (Kolossal)|Ein Geheimlabor hat unethische Genmanipulation genutzt, um|einen überlegenden Le’noir zu schaffen. Von unübertroffener|Größe und Aggression, mit lähmenden Angriffen.|Tödlichkeit steigt mit jedem Kampf.|
+%s (Schwarz/Kolossal)|Ein Geheimlabor hat unethische Genmanipulation genutzt, um|einen überlegenden Le’noir zu schaffen. Von unübertroffener|Größe und Aggression, mit lähmenden Angriffen.|Tödlichkeit steigt mit jedem Kampf.|
 %s (Zombie)|Clionel-artiges Wesen, das die vernichtende Verschmutzung der|Ozeane seiner Welt irgendwie überlebt (?) hat.|Bleib mir und meinen Söhnen von jetzt an fern.|Es heißt, es kann Katzen mit Furcht lähmen.|
 %s (Zombie)|Geliebter Neffe des kinderlosen Onkel Zyklombie.|Verfügt über die Härte seiner Mutter und der Bescheidenheit|seines Vaters, wodurch ein hungriger, kleiner Sturm entsteht,|der sich bei der kleinsten Gefahr verkriecht.|
 %s (Engel)|Er ist treu bis zum bitteren Ende und wartet am Himmelstor|auf die Ankunft seines Meisters.|Eine berühmte Statue von ihm beim Zufallsangriff ist ein|beliebter Treffpunkt für Jugendliche.|
 %s|Ein Veteranenbaby, das 7 Jahre Erfahrung in der Infanterie|gesammelt hat. Kann perfekt auf Kommando weinen und|Fremde bewusstlos schlagen. Wurde deswegen von zwei|Kindergärten abgelehnt.|
-%s (Fliegend) (Kolossal)|Ein Geheimlabor hat unethische Genmanipulation genutzt, um|eine überlegene Mootte zu schaffen. Stöße der kolossalen|Schwingen stoßen ihre Beute bis zum Sieg zurück.|Tödlichkeit steigt mit jedem Kampf.|
+%s (Fliegend/Kolossal)|Ein Geheimlabor hat unethische Genmanipulation genutzt, um|eine überlegene Mootte zu schaffen. Stöße der kolossalen|Schwingen stoßen ihre Beute bis zum Sieg zurück.|Tödlichkeit steigt mit jedem Kampf.|
 %s|Oberhaupt eines mächtigen Klans im Ruhestand, das insgeheim|noch immer regiert. Hat im hohen Turm ein Versteck errichtet,|wo er mit seiner Freundin entspannt (bis die unhöflichen|Katzen das Versteck stürmen!)|
 %s (Eisern)|Maskottchen/Trainer der NLB-Champions „Koala-Knüppler“.|Hat öfter erzwungen, dass Spiele wiederholt wurden, indem|er das Spiel gestört hat, wenn sein Team am verlieren war.|Alle fürchten seine gnadenlosen Trainingsmethoden.|
 |||||
@@ -523,7 +523,7 @@
 |||||
 |||||
 |||||
-%s (Alien) (Kolossal)|Ein Geheimlabor hat unethische Genmanipulation genutzt, um|ein überlegenes Nüllpferd zu schaffen. Enorm groß, mit der|Fähigkeit, jeden, der sich wehrt, zu lähmen.|Tödlichkeit steigt mit jedem Kampf.|
+%s (Alien/Kolossal)|Ein Geheimlabor hat unethische Genmanipulation genutzt, um|ein überlegenes Nüllpferd zu schaffen. Enorm groß, mit der|Fähigkeit, jeden, der sich wehrt, zu lähmen.|Tödlichkeit steigt mit jedem Kampf.|
 %s (Relikt)|Subjekt 002 (paläobakterielle Lebensform)|Kampfpotenzial: Unermesslich.|Trotz Aussehens ist Eigenschaft „Fliegend“ nicht vorhanden.|Leistung entspricht geschwächter Kapazität|
 %s (Zombie/Fliegend)|Dieser Vogel ist so stark, dass er nach Belieben selbst durch|den Fluss Styx schwimmen kann.|Unglücklich, weil seine sorgsam kultivierten Muskeln trotz|aller Maßnahmen einfach verrotten.|
 |||||
@@ -590,9 +590,9 @@
 |||||
 |||||
 |||||
-[%s] (Rot)|H. Nee ist süchtig nach gestrecktem|Katzamin C und leidet unter Realitätsverlust.|Behauptet, ein für den Kampf geborener Berserker zu sein.|Zufallsangriffe halten seine Feinde auf Distanz.|
-%s (Engel) (Kolossal)|Ein Geheimlabor hat unethische Genmanipulation genutzt, um|einen überlegenen Mr. Engel zu schaffen, der verlorene|Sünder führt, indem er sie bis zur Erlösung schwächt und|teleportiert. Tödlichkeit steigt mit jedem Kampf.|
-%s (Zombie) (Kolossal)|Ein Geheimlabor hat unethische Genmanipulation genutzt, um|einen überragenden Peng gigantischer Ausmaße zu schaffen,|der Gift in alle Richtungen sprühen kann.|Tödlichkeit steigt mit jedem Kampf.|
+%s (Rot)|H. Nee ist süchtig nach gestrecktem|Katzamin C und leidet unter Realitätsverlust.|Behauptet, ein für den Kampf geborener Berserker zu sein.|Zufallsangriffe halten seine Feinde auf Distanz.|
+%s (Engel/Koloss)|Ein Geheimlabor hat unethische Genmanipulation genutzt, um|einen überlegenen Mr. Engel zu schaffen, der verlorene|Sünder führt, indem er sie bis zur Erlösung schwächt und|teleportiert. Tödlichkeit steigt mit jedem Kampf.|
+%s (Zombie/Kolossal)|Ein Geheimlabor hat unethische Genmanipulation genutzt, um|einen überragenden Peng gigantischer Ausmaße zu schaffen,|der Gift in alle Richtungen sprühen kann.|Tödlichkeit steigt mit jedem Kampf.|
 |||||
 |||||
 |||||
@@ -608,12 +608,12 @@
 %s (Rot/Koloss)|Dieses Häschen ist aus einem Geheimen, unethischen Genlabor|geflohen. Alle seine Läden sind bankrott gegangen, aber|das Juwel in seinem Hinterteil sagt ihm in|Zukunft viel Glück voraus.|
 %s|Enkel des Hundes. Kommt aus der Zukunft, um die Vergangen-|heit zu ändern, in der sein Opa in einem Test durchgefallen ist.|Die Fragen in der Zulassungsprüfung sind so anders, dass|es kaum einen Unterschied gemacht hat.|
 %s (Relikt/Fliegend)|Eine von den Uralten erbaute, zerstörerische Waffe.|Der Strahl, den sie abfeuert, soll Zerstörung bringen können.|Wurde von einem Weisen am Meeresgrund versiegelt.|Soll angeblich zur Oberfläche auftreiben.|
-%s (Aku) (Behemoth)|Ein mächtiger Behemoth, der dämonisch wurde, als er sein|Heim verlor. Die Bäume im umgebenden Dschungel gefallen ihm |gar nicht. Kann Stachel aus seinem Schwanz feuern, die|alle Bewegung einfrieren.|
+%s (Aku/Behemoth)|Ein mächtiger Behemoth, der dämonisch wurde, als er sein|Heim verlor. Die Bäume im umgebenden Dschungel gefallen ihm |gar nicht. Kann Stachel aus seinem Schwanz feuern, die|alle Bewegung einfrieren.|
 %s (Schwarz/Behemoth)|Der dritte der drei Vogelbrüder. Lebt in|Dunkelheit und hat gefährliche Pflanzen kultiviert. Das|munkelt man jedenfalls. Kann jeden Feind mit unablässigen|Schnabelstößen besiegen. Ruft Gifteffekt hervor.|
 %s (Relikt)|Ein Hund aus Ton, der Häuser bewachen soll.|Verfügt über Stör- und Blockadefunktionen, um niemanden in|die Nähe des Hauses zu lassen. Beste Eigenschaft:|Ähnelt seinem Besitzer.|
-%s  (Engel) (Behemoth)|Herrscher über die Natur selbst. Sein gruseliges Gesicht|täuscht über sein gütiges Herz und seinen Wunsch, die Umwelt|zu schützen, hinweg. Setzt bösen Wilderern mit|Wellen, Zufallsangriffen und seinen heiligen Fäusten zu.|
-%s (Zombie) (Behem.)|Ameise, die mit aller Mühe Essen für den Winter gesammelt|hat, nur um sich zu überfressen und zwischen Leben und|Tod zu schweben.|Ihr Magen explodiert, wenn sie nervös wird.|
-%s (Engel) (Koloss)|Sohn eines Firmenbesitzers, der über Vitamin B einen|Job bekommen hat. Hat seine Gene editieren lassen, um nicht|mit seinem berühmten Paps verglichen zu werden.|Hat vor, demnächst auf ein Amt zu kandidieren.|
+%s (Engel/Behemoth)|Herrscher über die Natur selbst. Sein gruseliges Gesicht|täuscht über sein gütiges Herz und seinen Wunsch, die Umwelt|zu schützen, hinweg. Setzt bösen Wilderern mit|Wellen, Zufallsangriffen und seinen heiligen Fäusten zu.|
+%s (Zombie/Behem.)|Ameise, die mit aller Mühe Essen für den Winter gesammelt|hat, nur um sich zu überfressen und zwischen Leben und|Tod zu schweben.|Ihr Magen explodiert, wenn sie nervös wird.|
+%s (Engel/Koloss)|Sohn eines Firmenbesitzers, der über Vitamin B einen|Job bekommen hat. Hat seine Gene editieren lassen, um nicht|mit seinem berühmten Paps verglichen zu werden.|Hat vor, demnächst auf ein Amt zu kandidieren.|
 【%s】|仮1|仮2|仮3|仮4|
 【%s】|仮1|仮2|仮3|仮4|
 【%s】|仮1|仮2|仮3|仮4|
@@ -625,28 +625,30 @@
 %s (Behemoth)|In Donner gehüllter Ahnenvogel, der in einem Turm im Himmel|lebt. Legenden zufolge ein unvergesslicher Anblick, verbirgt|jedoch seine gewalttätige Persönlichkeit, die noch heftiger|wird, wenn er in die Enge getrieben wird.|
 【%s】|仮1|仮2|仮3|仮4|
 【%s】|仮1|仮2|仮3|仮4|
-【%s】 (Relikt/Behemoth)|Altmodische Ente mit drei Kindern im Schlepptau.|Cholerische Tendenzen. Eine strenge Elternente, die ihre|Küken dazu erzieht, irgendwann flügge zu werden.|Schickt dem jüngsten Küken Geld.|
-【%s】 (Relikt/Behemoth)|Ein großer Affe, der seit Urzeiten den Heiligen Wald bewacht.|Wird für einen Vorfahren des Menschen gehalten. Kann sich|gegen Behemoths mit|dem „Uralten Fluch“ behaupten.|
-【%s】 (Relikt/Koloss)|Nimmt die Energie auf, aus der alles besteht.|Mit erwachter, wahrer Macht wird alles dank riesiger Fäuste|in die Enge getrieben und mit unerbittlicher|Kraft als Beute zur Strecke gebracht.|
-【%s】 (Fliegend)|Durchstreift unendliche Welten und hinterlässt eine Spur aus |sowohl Zerstörung als auch Schöpfung. Sein Wesen ist|ein Rätsel, wie auch seine Macht. Alle negativen Effekte|sind dagegen machtlos.|
+%s (Relikt/Behemoth)|Altmodische Ente mit drei Kindern im Schlepptau.|Cholerische Tendenzen. Eine strenge Elternente, die ihre|Küken dazu erzieht, irgendwann flügge zu werden.|Schickt dem jüngsten Küken Geld.|
+%s (Relikt/Behemoth)|Ein großer Affe, der seit Urzeiten den Heiligen Wald bewacht.|Wird für einen Vorfahren des Menschen gehalten. Kann sich|gegen Behemoths mit|dem „Uralten Fluch“ behaupten.|
+%s (Relikt/Koloss)|Nimmt die Energie auf, aus der alles besteht.|Mit erwachter, wahrer Macht wird alles dank riesiger Fäuste|in die Enge getrieben und mit unerbittlicher|Kraft als Beute zur Strecke gebracht.|
+%s (Fliegend)|Durchstreift unendliche Welten und hinterlässt eine Spur aus |sowohl Zerstörung als auch Schöpfung. Sein Wesen ist|ein Rätsel, wie auch seine Macht. Alle negativen Effekte|sind dagegen machtlos.|
 【%s】|仮1|仮2|仮3|仮4|
 【%s】|仮1|仮2|仮3|仮4|
 【%s】|仮1|仮2|仮3|仮4|
-【%s】(Aku) (Behemoth)|Renommierter Bildhauer, der in der Wildnis lebt. |Schloss einen Aku-Vertrag ab, um Röntgenblick zu erhalten,|damit er besser nackte Statuen formen kann – sieht aber|jetzt durch Kleidung und Haut bis auf die Knochen ...|
+%s (Aku/Behemoth)|Renommierter Bildhauer, der in der Wildnis lebt. |Schloss einen Aku-Vertrag ab, um Röntgenblick zu erhalten,|damit er besser nackte Statuen formen kann – sieht aber|jetzt durch Kleidung und Haut bis auf die Knochen ...|
 【%s】|仮1|仮2|仮3|仮4|
-(%s) (Aku)|Influencerin mit Schönheit und Einfluss, die alle mögliche|Aufmerksamkeit auf sich zieht. Führt ein echtes Luxusleben.|Schlägt mit ihrer Mode hohe Wellen.|Spendet all ihr Geld an Bedürftige.|
-(%s) (Aku) (Koloss)|Ein Geheimlabor hat unethische Genmanipulation genutzt, um|die Cerberus-Kids zu verbessern, mit unvergleichlicher Größe,|Zufalls- und einfrierenden Angriffen.|Tödlichkeit steigt mit jedem Kampf.|
-(%s) (Fliegend)|Kleiner Bruder des weißen Zyklons. Studiert Sog und|Stabilität an der Uni. Dank des Robotersauger-Booms|fällt es ihm schwer,|Arbeit zu finden.|
-(%s) (Rot) (Behemoth)|Ein Riesen-Pegasus mit der Macht, den Himmel zu|entzünden und den Boden einzuäschern. Wer|ihn sieht, wird von Mini-Wellen umschlossen und|festgehalten, um zu verbrennen.|
+%s (Aku)|Influencerin mit Schönheit und Einfluss, die alle mögliche|Aufmerksamkeit auf sich zieht. Führt ein echtes Luxusleben.|Schlägt mit ihrer Mode hohe Wellen.|Spendet all ihr Geld an Bedürftige.|
+%s (Aku/Koloss)|Ein Geheimlabor hat unethische Genmanipulation genutzt, um|die Cerberus-Kids zu verbessern, mit unvergleichlicher Größe,|Zufalls- und einfrierenden Angriffen.|Tödlichkeit steigt mit jedem Kampf.|
+%s (Fliegend)|Kleiner Bruder des weißen Zyklons. Studiert Sog und|Stabilität an der Uni. Dank des Robotersauger-Booms|fällt es ihm schwer,|Arbeit zu finden.|
+%s (Rot/Behemoth)|Ein Riesen-Pegasus mit der Macht, den Himmel zu|entzünden und den Boden einzuäschern. Wer|ihn sieht, wird von Mini-Wellen umschlossen und|festgehalten, um zu verbrennen.|
 %s (Alien/Behemoth)|Schweinsmaskottchen der 56. Königin des Schweinekönigreichs.|Geflohen, nachdem es zu oft in Kleidung spazieren gehen |musste. Genoss das Leben als Wildschwein und merkte dann,|dass die Kleidung seine eigenen Borsten waren.|
 %s (Behemoth)|Ist in einer rauen Welt aufgewachsen und hat keinen Takt, |was Frauen angeht. Hat sich so viele Körbe eingefangen, dass |er nun willensstark genug ist, jeden negativen Statuseffekt|einfach abzuschütteln.|
 %s (Aku)|Ist nach 560.000 Jahren als höllischer Tyrann in unsere Welt|zurückgekehrt, um ein Foto für ein Blind Date zu machen. |Hat vor, mit seiner Größe, guten Noten und seinen Blutzucker-|Werten zu beeindrucken.|
-【%s】|Grausige Verzauberin, die in den tiefsten Tiefen eines|Labyrinths haust. Quält in ihren Fallen gefangene Opfer mit|endlosen Geschichten ohne Pointe, immer über ihren großen|Bruder im Reich der Aku.|
-【%s】|||||
-【%s】|||||
-【%s】|||||
-【%s】|||||
-【%s】|||||
+%s|Grausige Verzauberin, die in den tiefsten Tiefen eines|Labyrinths haust. Quält in ihren Fallen gefangene Opfer mit|endlosen Geschichten ohne Pointe, immer über ihren großen|Bruder im Reich der Aku.|
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
 %s (Engel)|Otter, der als Torwächter zum Himmel arbeitet.|Schickt alle, die des Himmels nicht wert sind,|mit seiner goldenen Kugel in die Unterwelt.|Beschwört Monster mit der Kraft von Zufallsangriffen.|
 %s (Relikt/Behemoth)|Der Vorfahre aller invasiven Arten.|Sollte eigentlich Schädlinge ausrotten, aber sein|unbändiger Appetit machte es schwer, ihn zu zähmen.|So wurde er zu einer Gefahr für seine Umgebung.|
-【%s】|||||
+%s|||||
+%s (Zombie/Fliegend/Behem.)|Hat 10-mal die Uni-Aufnahmeprüfung nicht geschafft|und die Ausbildung aufgegeben, weil man zum|Untotsein keinen Abschluss braucht.|Fragt sich doch, was hätte sein können …|
+%s|Ein stubenreiner großer Yokai aus den Sümpfen.|Sein mächtiger, von einer Bittermelonenernährung getriebener|Schlag macht ihn außer Haus zum gefährlichen Gegner, doch|zu Hause hat seine Frau ihn unter Kontrolle.|

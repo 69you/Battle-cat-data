@@ -769,7 +769,7 @@ calendar_99h	Über 99 Std.
 legendquest_tutorial1	Willkommen zu Legenden-Quests!<br>Kämpfe in einem Sonderlevel<br>mit einer zufälligen Katzenauswahl!
 legendquest_tutorial2	Um dieses Level zu versuchen, brauchst du Kronen!<br>Hol dir Kronen, indem du Level der Stufe 1-4<br>in Legenden abschließt.
 legendquest_tutorial3	Bitte beachte, dass Kronen, Energie und<br>Gegenstände nicht erstattet werden,<br>wenn du in einer Legenden-Quest aus dem Kampf fliehst!
-legendquest_Cancel	Aus dem Kampf fliehen?<br><color=255,0,0>Kronen, Energie und Gegenstände werden nicht rückerstattet.</color>
+legendquest_Cancel	Nicht genug Kronen ...<br>Sammle Kronen, in dem du<br>Legenden-Kartenlevel abschließt.
 legendquest_warning	Nicht genug Kronen ...<br>Sammle Kronen, in dem du<br>Legenden-Kartenlevel abschließt.
 legendquest_popup	<flash>Legenden-Quest</flash><br>Stell dich einem zufälligen Level mit einer zufälligen Formation!<br>* Nutze in legendären Leveln verdiente Kronen und Energie, um die Herausforderung zu beginnen.<br>* Bei jedem weiteren Versuch eines Levels kostet der Kampfantritt mehr Kronen.<br>* Kronen, Energie und Gegenstände werden nicht erstattet, wenn du aus dem Kampf fliehst.
 score_sns	Meine Kampfkatzen haben bei „%@“ %d Pkt. erreicht! %s %s
@@ -1349,3 +1349,25 @@ potential_skill_name63	Kolosstöter
 potential_skill_name64	Behemothtöter
 stage_restriction_charagroup_9	Katze
 potential_skill_name65	Mini-Zufallsangriff
+slot_SNS_002	Ich habe %d Katzenbatzen bei den Wildkatzen-Slots in #TheBattleGats gewonnen!<br><br>#BattleCats #9Years
+stageskip_message_2	„Baron Robbe schlägt zu!“, „${stageName1}“, abgeschlossen!<br>Starte die nächste Herausforderung ab <flash>${stageName2}</flash>.
+stageskip_message_3	„Grummelfant schlägt zu!“, „${stageName1}“, abgeschlossen!<br>Starte die nächste Herausforderung ab <flash>${stageName2}</flash>.
+stageskip_message_4	„Megabedrohung!“, „${stageName1}“, abgeschlossen!<br>Starte die nächste Herausforderung ab <flash>${stageName2}</flash>.
+stageskip_message_5	„Schreckensnilpferd!“, „${stageName1}“, abgeschlossen!<br>Starte die nächste Herausforderung ab <flash>${stageName2}</flash>.
+stageskip_message_6	„Der göttliche Erzengel schlägt zu“, „${stageName1}“, abgeschlossen!<br>Starte die nächste Herausforderung ab <flash>${stageName2}</flash>.
+stageskip_message_7	„Der große Peng Z schlägt zu“, „${stageName1}“ abgeschlossen!<br>Starte die nächste Herausforderung ab <flash>${stageName2}</flash>.
+stageskip_message_8	„Angriff der Omen“, „${stageName1}“, abgeschlossen!<br>Starte die nächste Herausforderung ab <flash>${stageName2}</flash>.
+unlock_popup_message_138	<flash>Überspringe Kämpfe mit dem Katzencomputer!</flash><br>Um die Levels zu überspringen, die du schon abgeschlossen hast und die Belohnungen zu erhalten, tippe auf das Symbol, wenn du Gegenstände auswählst.<br>Beachte: In manchen Leveln kannst du die Kämpfe nicht überspringen.
+ScatCPU_info1	<flash>${itemNum1}</flash>x „${itemName1}“ nutzen, um den Kampf zu überspringen?<br>Du kannst heute noch ${itemNum2}-mal überspringen.
+ScatCPU_info2	<flash>Unbegrenzte Katzencomputer für alle!</flash><br>Möchtest du den Kampf überspringen?<br>Du kannst heute noch ${itemNum}-mal überspringen.
+ScatCPU_XPdrop	<color=255,255,0>Absoluter Sieg!</color><br>Du <flash>erhältst</flash> XP für den Abschluss des Levels!<br>${itemName} +${itemNum}
+ScatCPU_message	<color=255,0,255>Der Katzencomputer</color><color=0,0,0> ist unterwegs.<br>Er ist nicht perfekt, schließlich wurde er von Katzen programmiert,<br>aber er wird mit Leveln fertig, die du bereits abgeschlossen hast, wenn du auf das Symbol tippst!</color>
+ScatCPU_error1	Du hast die maximale Anzahl von Überspringen genutzt.<br>Die Anzahl wird um Mitternacht vollständig zurückgesetzt.
+ScatCPU_error2	Die Systemzeit wurde möglicherweise verändert.<br>Du kannst eine Weile keine Kämpfe überspringen.
+ScatCPU_error3	Nicht genügend Katzencomputer!<br>Zum Gegenstände-Shop?
+ScatCPU_error4	<flash>${itemNum1}</flash>X ${itemName1} nutzen, um den Kampf zu überspringen?<br><color=255,255,0>Du kannst damit aus Leveln keine Zeitlevel-Belohnungen erhalten.</color><br>Du kannst heute noch ${itemNum2}-mal überspringen.
+ScatCPU_error5	Unbegrenzte Katzencomputer für alle!<br>Möchtest du den Kampf überspringen?<br><color=255,255,0>Du kannst damit aus Leveln keine Zeitlevel-Belohnungen erhalten, auch wenn sie verfügbar sind.</color><br>Du kannst heute noch ${itemNum2}-mal überspringen.
+ScatCPU_error6	<flash>${itemNum1}</flash>X „${itemName1}“ nutzen, um den Kampf zu überspringen?<br><color=255,255,0>Folgelevel erscheinen nach Überspringen von Leveln nicht.</color><br>Du kannst heute noch ${itemNum2}-mal überspringen.
+ScatCPU_error7	Unbegrenzte Katzencomputer für alle!<br>Möchtest du den Kampf überspringen?<br><color=255,255,0>Folgelevel erscheinen nach Überspringen von Leveln nicht.</color><br>Du kannst heute noch ${itemNum2}-mal überspringen.
+ScatCPU_error8	Noch nicht abgeschlossene Kämpfe kannst du nicht überspringen.
+ScatCPU_error9	Kein Überspringen für dieses Level!<br>Jetzt ist die Zeit, aus eigener Kraft zu kämpfen!

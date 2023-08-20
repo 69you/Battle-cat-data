@@ -263,6 +263,9 @@ Tu premio: ¡5 gatojos megarraros!<br>Aumenta el nivel máximo de tus unidades m
 Tu premio: ¡1 fragmento de platino!	//20100_2:ランク20100の達成表示
 Tu premio: ¡3 ladrillos Z!<br>Desarrolla tu base desde el menú de Ototo.	//20200_2:ランク20200の達成表示
 Tu premio: ¡3 plumas Z!<br>Desarrolla tu base desde el menú de Ototo.	//20300_2:ランク20300の達成表示
+Tu premio: ¡3 carbones Z!<br>Desarrolla tu base desde el menú de Ototo.	//20400_2:ランク20400の達成表示
+Tu premio: ¡3 engranajes Z!<br>Desarrolla tu base desde el menú de Ototo.	//20500_2:ランク20500の達成表示
+Tu premio: ¡3 oros Z!<br>Desarrolla tu base desde el menú de Ototo.	//20600_2:ランク20600の達成表示
 	
 	//読み込み可能行数400行まで（2018/11/12）
 	//xxx_1は目標ユーザーランクの内容表示、xxx_2はユーザーランク達成表示

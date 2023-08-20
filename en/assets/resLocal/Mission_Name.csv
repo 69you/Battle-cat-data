@@ -40,7 +40,7 @@
 8009|Clear %d Stories of Legend stages!<br>(Complete any 10 yellow SoL stages: %d of %d)
 8010|Clear all weekly missions!<br>(Complete all %d weekly Challenges available: %d of %d)
 8011|Clear all weekly missions!<br>(Complete all %d weekly Challenges available: %d of %d)
-9000|Defeat the 30th floor of the Heavenly Tower.<br>(This reward can only be claimed once.)|Check the Special Missions to access<br>this Heavenly Tower Mission!
+9000|Defeat the 30th floor of the Heavenly Tower.<br>(This reward can only be claimed once.)|Check the Special Missions to access<br>a Heavenly Tower mission!
 9001|Clear Summer Lesson stages %d times!<br>(Complete any Summer Lesson stage: %d of %d)
 9002|Clear Summer Lesson stages %d times!<br>(Complete any Summer Lesson stage: %d of %d)
 9003|Clear Summer Lesson stages %d times!<br>(Complete any Summer Lesson stage: %d of %d)
@@ -94,7 +94,7 @@
 9051|Clear "Decisive Battle!" %d times!<br>Clear any Decisive Battle! stage: %d of %d
 9052|Clear "Decisive Battle!" %d times!<br>Clear any Decisive Battle! stage: %d of %d
 9053|Clear "Decisive Battle!" %d times!<br>Clear any Decisive Battle! stage: %d of %d
-9054|Clear a stage using a catcombo with "Eva Angel Killer" effect!<br>Use Shinji and ??? together (after Empire Ch. 1)|Check the Special Missions to access<br>this Evangelion Collab Mission!
+9054|Clear a stage using a catcombo with "Eva Angel Killer" effect!<br>Use Shinji and ??? together (after Empire Ch. 1)|Check the Special Missions to access<br>Evangelion Collab missions!
 9055|Destroy the 4th Angel<br>Encounter this enemy at "State of Emergency"
 9056|Destroy the 6th Angel<br>Encounter this enemy at "Futagoyama Fortress"
 9057|Destroy the 9th Angel<br>Encounter this enemy at "Asuka On Board (Easy)"
@@ -695,29 +695,29 @@
 9280|
 9281|
 9282|
-9283||
-9284|
-9285|
+9283|【Q1. What's in the Box? Quiz】<br>Guess the event unit! : A medal bearing many thanks|Check the Special Missions to access<br>【Q1. What's in the Box? Quiz】 missions!
+9284|【Q1. What's in the Box? Quiz】<br>Guess the event unit! : A Cat that brings slight fortune.
+9285|【Q1. What's in the Box? Quiz】<br>Guess the event unit! : Ninja who dashes between planets.
 9286|
 9287|
-9288||
-9289|
-9290|
-9291|
-9292|
-9293|
-9294||
-9295||
-9296|
-9297|
-9298|
-9299|
-9300|
-9301||
-9302|
-9303|
+9288|【Q2. Location Quiz】What country is famous for sushi?<br>Clear this stage in Empire of Cats to answer!|Check the Special Missions to access<br>【Q2. Location Quiz】missions!
+9289|【Q2. Location Quiz】What is the most famous desert in Africa?<br>Clear this stage in Empire of Cats to answer!
+9290|【Q2. Location Quiz】<br>Clear this Empire stage: Salvador Dali is from here
+9291|【Q2. Location Quiz】<br>Clear this Empire stage: Spooky triangle where planes vanish
+9292|【Q2. Location Quiz】<br>Clear this Empire stage: Largest state in America
+9293|【Q2. Location Quiz】Go around the world<br>and answer all %d quiz questions! (%d of %d)
+9294|【Q3. Cat Base Quiz】<br>Answer all of the quiz questions that the Cat has!|Check the Special Missions to access<br>【Q3. Cat Base Quiz】missions!
+9295|【Q4. Culling Quiz】Defeat the enemy<br>trying to get into college each year in an Empire stage!|Check the Special Missions to access<br>【Q4. Culling Quiz】missions!
+9296|【Q4. Culling Quiz】Defeat the enemy<br>currently attending acting school in an Empire stage!
+9297|【Q4. Culling Quiz】What enemy collects magazines?<br>Defeat this enemy in Empire of Cats to answer!
+9298|【Q4. Culling Quiz】What enemy works at the fire station?<br>Defeat this enemy in Empire of Cats to answer!
+9299|【Q4. Culling Quiz】What enemy is only a giant head?<br>Defeat this enemy in Empire of Cats to answer!
+9300|【Q4. Culling Quiz】Go around the world<br>and answer all %d quiz questions! (%d of %d)
+9301|【Q5. Matter of Luck】Clear %d Heaven stages<br>to bestow luck unto an ally and open the door! (%d of %d)|Check the Special Missions to access<br>【Q5. Matter of Luck】missions!
+9302|【Q5. Matter of Luck】Clear %d Heaven stages<br>to bestow luck unto an ally and open the door! (%d of %d)
+9303|【Q5. Matter of Luck】Clear %d Heaven stages<br>to bestow luck unto an ally and open the door! (%d of %d)
 9304|
-46|
+46|9th Anniversary Mission<br>Clear Empire of Cats Ch. 1 during this event!
 9305|Clear Floor 30 of the Infernal Tower<br>※ Reward can only be collected once.|Infernal Tower missions added to the Special Missions!
 47|Empress' Report: Aku Research<br>Clear Empress' Report 1 - 5 stages %d times each. (%d/%d cleared)|Empress' Research missions added<br>to the Main Missions section!
 9306||
@@ -858,3 +858,7 @@
 9429|Score more than 6200 points on <br>stage 4 of #02 Banquet of Terror!
 9430|Score more than 4500 points on <br>stage 5 of #02 Banquet of Terror!
 9431|Earn one B. Stone from <br>clearing the score target on #02 Banquet of Terror stage 1-5!
+9432|【Q1. What's in the Box?】<br>Earn all mystery units from Event Capsules! (%d of %d)
+9433|【Ultra Quiz】Clear Missions Q1~5 and<br>claim your Million Dollar prize (according to Cat CPU)!
+60|Clear %d Behemoth Culling stages for the first time!<br>(Check applicable stages in Mission details: %d of %d)
+61|Clear %d Behemoth Culling stages for the first time!<br>(Check applicable stages in Mission details: %d of %d)

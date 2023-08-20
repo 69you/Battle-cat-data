@@ -769,7 +769,7 @@ calendar_99h	=+99 h
 legendquest_tutorial1	Bienvenue dans les Quêtes légendaires !<br>Mesure-toi à un niveau spécial<br>avec des unités choisis au hasard !
 legendquest_tutorial2	Il faut des couronnes pour jouer ce niveau !<br>Obtiens des couronnes en terminant les Niveaux<br>légendaires de niveau 1 à 4.
 legendquest_tutorial3	Sache que les couronnes, le Charburant et les<br>objets ne seront pas rendus si tu fuis<br>une bataille de Quête de légende !
-legendquest_Cancel	Fuir la bataille ?<br><color=255,0,0>Les couronnes, le Charburant et les objets seront perdus.</color>
+legendquest_Cancel	Pas assez de couronnes...<br>Récupère des couronnes en terminant<br>des Niveaux légendaires.
 legendquest_warning	Pas assez de couronnes...<br>Récupère des couronnes en terminant<br>des Niveaux légendaires.
 legendquest_popup	<flash>Quête de légende</flash><br>Joue un niveau aléatoire avec une formation aléatoire !<br>* Utilise des couronnes gagnées dans les Niveaux légendaires ainsi que du Charburant pour relever le défi !<br>* Chaque essai sur un niveau coûtera plus de couronnes.<br>*Les couronnes, le Charburant et les objets ne seront pas rendus en cas de fuite.
 score_sns	Mes Battle Cats ont marqué %d pts dans %@ ! %s %s
@@ -1349,3 +1349,25 @@ potential_skill_name63	Fléau des colosses
 potential_skill_name64	Fléau des Béhémoths
 stage_restriction_charagroup_9	Chat
 potential_skill_name65	Mini-réplique
+slot_SNS_002	J’ai gagné %d Miams aux Machines à sous Chat sauvage de #TheBattleCats !<br><br>#BattleCats #9Ans
+stageskip_message_2	Attaque du Baron phoque terminée  - ${stageName1} !<br>Lance le défi suivant depuis <flash>${stageName2}</flash>.
+stageskip_message_3	Éléphunèbre frappe terminée - ${stageName1} !<br>Lance le défi suivant depuis <flash>${stageName2}</flash>.
+stageskip_message_4	Méga menace terminée - ${stageName1} !<br>Lance le défi suivant depuis <flash>${stageName2}</flash>.
+stageskip_message_5	Hippoporreur terminé - ${stageName1} !<br>Lance le défi suivant depuis <flash>${stageName2}</flash>.
+stageskip_message_6	Attaque de l’Archange divin terminée - ${stageName1} !<br>Lance le défi suivant depuis <flash>${stageName2}</flash>.
+stageskip_message_7	Attaque de Grand Peng Z terminée - ${stageName1} !<br>Lance le défi suivant depuis <flash>${stageName2}</flash>.
+stageskip_message_8	Attaque des présages terminée - ${stageName1} !<br>Lance le défi suivant depuis <flash>${stageName2}</flash>.
+unlock_popup_message_138	<flash>Passe des batailles avec les Chats numériques !</flash><br>Pour passer les batailles de niveaux déjà finis et recevoir les récompenses, touche l’icône qui apparaît lors du choix d’objets.<br>Remarque : cette fonction n’est pas disponible pour certains niveaux.
+ScatCPU_info1	Utiliser <flash>${itemNum1}</flash>x ${itemName1} pour passer la bataille ?<br>Tu peux encore en passer ${itemNum2}aujourd’hui.
+ScatCPU_info2	<flash>Chats numériques illimités pour tous !</flash><br>Veux-tu passer la bataille ?<br>Tu peux encore en passer ${itemNum} aujourd’hui.
+ScatCPU_XPdrop	<color=255,255,0>Victoire totale !</color><br>Tu as <flash>obtenu</flash> de l’XP en terminant le niveau !<br>${itemName} +${itemNum}
+ScatCPU_message	<color=255,0,255>Le Chat numérique</color><color=0,0,0> est en chemin.<br>Il n’est pas parfait (forcément, il est programmé par des Chats),mais il peut gérer les niveaux<br>que tu as déjà terminés quand tu touches l’icône !</color>
+ScatCPU_error1	Tu ne peux pas passer plus de batailles.<br>Cette limite reviendra à zéro à minuit.
+ScatCPU_error2	Il se peut que l’horaire de l’appareil ait été modifié.<br>Tu ne pourras plus passer de batailles pendant quelque temps.
+ScatCPU_error3	Pas assez de Chats numériques.<br>Aller à la boutique d’objets ?
+ScatCPU_error4	Utiliser <flash>${itemNum1}</flash>x ${itemName1} pour passer la bataille ?<br><color=255,255,0>Tu ne recevras pas les récompenses de score chrono.</color><br>Tu peux encore passer ${itemNum2} bataille(s) aujourd’hui.
+ScatCPU_error5	Chats numériques illimités pour tous !<br>Veux-tu passer la bataille ?<br><color=255,255,0>Tu ne recevras pas les récompenses de score chrono des niveaux qui en proposent.</color><br>Tu peux encore passer ${itemNum2} bataille(s) aujourd’hui.
+ScatCPU_error6	Utiliser <flash>${itemNum1}</flash>x ${itemName1} pour passer la bataille ?<br><color=255,255,0>Les niveaux suites n’apparaîtront pas après avoir passé une bataille.</color><br>Tu peux encore en passer ${itemNum2} aujourd’hui.
+ScatCPU_error7	Chats numériques illimités pour tous !<br>Passer la bataille ?<br><color=255,255,0>Les niveaux suites n’apparaîtront pas après avoir passé une bataille.</color><br>Tu peux encore en passer ${itemNum2} aujourd’hui.
+ScatCPU_error8	Tu ne peux pas passer les batailles que tu n’as pas réussies.
+ScatCPU_error9	Pas moyen de passer les batailles de ce niveau !<br>Combats de toutes tes forces !

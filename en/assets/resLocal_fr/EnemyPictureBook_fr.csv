@@ -48,7 +48,7 @@
 %s (Métal)|Une mystérieuse organisation a réalisé une expérience|sur Hippo pour que son corps soit métallique.|Il a l’air d’être sensible aux attaques critiques.||
 %s (Rouge)|Une ancêtre de Porca.|Deuxième reine du royaume porcin.|Dans quelques jours, elle deviendra du bacon bio,|mais elle ne le sait pas encore.|
 %s (Rouge/Flottant)|Un auteur à succès. A eu une grande influence sur|le professeur Bun Bun. Ses œuvres les plus connues|sont « Châtiment et préjugés » (1868)|et « Les Pénitents » (1875).|
-%s(Flottant/Noir)|L’AMOUR MÈNE AUX PORTES DU PARADIS #AMOUR|C’est ce qu’il dit à ceux qu’il frappe.|On raconte que ses victimes voient vraiment l’au-delà.|Enfin, on ne peut pas en être sûr tant que...|
+%s (Flottant/Noir)|L’AMOUR MÈNE AUX PORTES DU PARADIS #AMOUR|C’est ce qu’il dit à ceux qu’il frappe.|On raconte que ses victimes voient vraiment l’au-delà.|Enfin, on ne peut pas en être sûr tant que...|
 %s (Noir)|Gory a enfin trouvé du travail !|Laissant derrière lui son ancienne vie,|il a hâte que sa famille|revienne vivre avec lui.|
 %s (Noir)|« Prépare-toi à sombrer. » - Sombrourou|Il sort toujours des répliques kitsch.|C’est un peu triste pour le bébé kangourou|dans sa poche qui doit supporter tout ça.|
 %s (Noir)|Un réalisateur raté qui échoue|à copier son célèbre presque homonyme.|Ses œuvres font des bides|mais il est connu pour ses scènes salaces.|
@@ -252,7 +252,7 @@
 |||||
 |||||
 |||||
-%s(Ange)|Rend tout le monde fou avec ses leçons de morale.|Fais semblant d’écouter,|ou il te mettra une raclée...|Un jour, tu me remercieras !|
+%s (Ange)|Rend tout le monde fou avec ses leçons de morale.|Fais semblant d’écouter,|ou il te mettra une raclée...|Un jour, tu me remercieras !|
 %s (Rouge/Noir)|Présentait autrefois un célèbre jeu télévisé.|Cet oiseau migrateur pratique désormais le golf|aux quatre coins du monde, et passe à la télé|s’il a besoin d’argent. Lance des vagues d’avidité.|
 %s (Noir)|Un impitoyable lanceur semi-professionnel qui|usera de tous les moyens pour gagner.|Lance des balles non réglementaires à distance|pour intimider les autres batteurs.|
 %s|Né en l’an 1196 du calendrier cosmique,|il a hérité de la couronne grâce à son service|militaire et à ses prouesses scientifiques. Agacé que|son frère, star de télé-réalité, soit plus connu que lui.|
@@ -497,7 +497,7 @@
 %s (Relique)|Gardiens de la forêt vierge.|Jamais aucun intrus n’en est ressorti vivant.|Seuls ceux qui parviennent à les vaincre|peuvent voir derrière le masque.|
 %s (Métal)|Croco s’est porté volontaire pour être transformé en cyborg|et devenir le membre le plus puissant de son clan.|Il y a eu un manque de budget à mi-chemin,|mais il a quand même de l’allure !|
 %s (Flottant)|Un dindon qui est aussi un commercial hors pair.|Il est allé voir une voyante en octobre, qui lui a prédit|un avenir pas joli joli...|Il veut y échapper en apprenant à voler.|
-%s (Rouge) (Colossal)|Un labo secret d'expériences génétiques douteuses|a créé un Phoque supérieur. Prudence maximale face à |ses attaques qui affaiblissent et immobilisent.|Sa létalité augmente à chaque combat.|
+%s (Rouge/Colossal)|Un labo secret d'expériences génétiques douteuses|a créé un Phoque supérieur. Prudence maximale face à |ses attaques qui affaiblissent et immobilisent.|Sa létalité augmente à chaque combat.|
 |||||
 |||||
 |||||
@@ -508,12 +508,12 @@
 |||||
 |||||
 |||||
-%s (Noir) (Colossal)|Un labo secret d'expériences génétiques douteuses|a créé un Éléfombre supérieur. Inégalé en taille comme|en agressivité, attaques qui ralentissent.|Sa létalité augmente à chaque combat.|
+%s (Noir/Colossal)|Un labo secret d'expériences génétiques douteuses|a créé un Éléfombre supérieur. Inégalé en taille comme|en agressivité, attaques qui ralentissent.|Sa létalité augmente à chaque combat.|
 %s (Zombie)|Un être de type Clionel qui a réussi à survivre|à l’extinction de masse dans les océans pollués|de son monde. Ne vous approchez plus de lui ni de|ses fils. On dit qu’il paralyse les Chats de peur.|
 %s (Zombie)|Neveu adoré de Zyclone, qui n’a pas d’enfants.|Il est dur comme sa mère et timide comme son père.|Cette association en fait une petite tornade affamée|qui se cache au moindre signe de danger.|
 %s (Ange)|Fidèle jusqu’au bout, il attend patiemment près des|portes du paradis que son maître arrive.|Une célèbre statue de lui en pleine réplique offensive|est le lieu de rencontre préféré des ados.|
 %s|Un bébé vétéran qui a plus de 7 ans d’expérience|de l’enfance. Joue tellement bien les faux pleurs qu’il|fait tomber les inconnus dans les pommes. Rejeté de|2 crèches réputées à cause de son « talent »...|
-%s (Flottant) (Colossal)|Un labo secret d'expériences génétiques douteuses|a créé un Fa Lèn supérieur. Les tirs de ses ailes colossales|repoussent sa proie pour mieux la soumettre.|Sa létalité augmente à chaque combat.|
+%s (Flottant/Colossal)|Un labo secret d'expériences génétiques douteuses|a créé un Fa Lèn supérieur. Les tirs de ses ailes colossales|repoussent sa proie pour mieux la soumettre.|Sa létalité augmente à chaque combat.|
 %s|Chef à la retraite d’un clan puissant, il continue à tirer|les ficelles. Il a construit une cachette secrète dans une|haute tour pour passer du bon temps avec sa petite|amie (avant que des chats mal élevés ne le dérangent !).|
 %s (Métal)|Mascotte et entraîneur des Koala Krushers, champions|de la NLB. À cause de ses interruptions quand son équipe|perdait, plusieurs matchs ont dû être rejoués.|Sa rigueur à l’entraînement est redoutée de tous.|
 |||||
@@ -523,9 +523,9 @@
 |||||
 |||||
 |||||
-%s (Alien) (Colossal)|Un labo secret d'expériences génétiques douteuses|a créé un Hyppalien supérieur de taille gigantesque.|Il a la capacité de ralentir ceux qui lui résistent.|Sa létalité augmente à chaque combat.|
+%s (Alien/Colossal)|Un labo secret d'expériences génétiques douteuses|a créé un Hyppalien supérieur de taille gigantesque.|Il a la capacité de ralentir ceux qui lui résistent.|Sa létalité augmente à chaque combat.|
 %s (Relique)|Sujet 002 (forme de vie paléobactérienne)|Potentiel de combat : incommensurable.|N’est pas un flottant malgré son apparence.|Sa puissance correspond à une capacité affaiblie.|
-%s (Zombies/flott.)|Un oiseau si décharné qu’il peut traverser|le Styx à la nage quand il le souhaite.|Ça l’énerve de ne pas pouvoir empêcher sa|belle masse musculaire de pourrir.|
+%s (Zombies/Flott.)|Un oiseau si décharné qu’il peut traverser|le Styx à la nage quand il le souhaite.|Ça l’énerve de ne pas pouvoir empêcher sa|belle masse musculaire de pourrir.|
 |||||
 |||||
 |||||
@@ -591,8 +591,8 @@
 |||||
 |||||
 %s (Rouge)|Hi Yen s'est fait avoir avec de la fausse vichamine C|et a perdu tout sens des réalités, prétendant|être un berserker né pour combattre.|Ses séries offensives gardent ses ennemis à distance.|
-%s (Ange) (Colossal)|Un labo secret d'expériences génétiques douteuses|a créé un Mr. Ange supérieur, qui guide les pauvres|pécheurs par l'affaiblissement et la téléportation vers|le salut. Sa létalité augmente à chaque combat.|
-%s (Zombie) (Colossal)|Un labo secret d'expériences génétiques douteuses|a créé un Peng supérieur et gigantesque qui répand|des toxines dans toutes les directions.|Sa létalité augmente à chaque combat.|
+%s (Ange/Colosse)|Un labo secret d'expériences génétiques douteuses|a créé un Mr. Ange supérieur, qui guide les pauvres|pécheurs par l'affaiblissement et la téléportation vers|le salut. Sa létalité augmente à chaque combat.|
+%s (Zombie/Colossal)|Un labo secret d'expériences génétiques douteuses|a créé un Peng supérieur et gigantesque qui répand|des toxines dans toutes les directions.|Sa létalité augmente à chaque combat.|
 |||||
 |||||
 |||||
@@ -605,15 +605,15 @@
 %s (Rouge/Béhémoth)|Un canard qui a repris une vie sauvage pour éviter, de peu,|de finir en foie gras. Fait violemment bruire ses plumes|et peut éviscérer ses ennemis avec son bec géant.|Sa férocité n'a d'égal que sa sauvagerie.|
 %s (Flottant/Béhémoth)|Un Hibougre qui a rencontré sa vraie personnalité sauvage|à 79 ans. Senior qui descend sur un volcan pour lancer|une boule de lumière contenant des années de colère|refoulée. Peut déclencher une réplique offensive.|
 %s (Alien/Béhémoth)|Un Bernard-l’alien doté du pouvoir irrationnel de|l'amour, ainsi que d'un fort joli logis. Ses griffes|géantes peuvent ralentir les ennemis pendant que|son att. longue portée les fait souffrir.|
-%s (Rouge/Colosse)|Ce lapin a fui un labo secret pratiquant des expériences|génétiques douteuses. Gérant d'un magasin qui a fait|faillite pendant son absence, mais le bijou qu'il|porte derrière lui prédit un avenir radieux.|
+%s (Rouge/Colossal)|Ce lapin a fui un labo secret pratiquant des expériences|génétiques douteuses. Gérant d'un magasin qui a fait|faillite pendant son absence, mais le bijou qu'il|porte derrière lui prédit un avenir radieux.|
 %s|Descendant de Toutou. Venu du futur pour altérer le|moment du passé où son grand-père a raté un examen.|Hélas, il n'a pas été en mesure de répondre|aux questions du concours d'entrée.|
 %s (Relique/Flottant)|Une arme destructrice issue d'un peuple ancien.|Son rayon est censé ne rien laisser debout.|Elle a été scellée au fond d'un océan par un sage.|La rumeur prétend qu'elle flotte maintenant à la surface.|
 %s (Aku/Béhémoth)|Un puissant Béhémoth devenu démoniaque après avoir|perdu sa maison. Il n'aime pas trop les arbres de la jungle |qui l'entoure. Peut tirer des piques avec sa queue|pour immobiliser tout mouvement.|
 %s (Noir/Béhémoth)|Un des trois Frères Oiseaux. Se sent bien dans l'obscurité|et aime cultiver ses plantes dangereuses. Selon la rumeur,|en tout cas. Peut éliminer les ennemis avec ses coups|de bec répétés et leur infliger des dégâts toxiques.|
 %s (Relique)|Un chien créé à partir d'argile pour garder les maisons.|Il dispose de fonctions d'interférence et de brouillage|pour empêcher quiconque d'atteindre la maison.|Meilleur pouvoir: ressembler à son maître.|
-%s (ange/Béhémoth)|Il règne sur la nature avec un visage effrayant,|lequel cache son bon cœur et son désir de protéger|l'environnement. Il élimine les vilains braconniers avec des|vagues, des répliques et ses poings sacrés.|
-%s (zombie/Béhémoth)|Cette fourmi a trimé afin de récolter des vivres|pour l'hiver, et a fini par tant manger qu'elle|se retrouve à deux doigts de la mort.|Son estomac explose à la moindre contrariété.|
-%s (ange/colosse)|Le fils d'un entrepreneur qui s'est fait pistonner pour|décrocher un boulot. Il a subi des manipulations génétiques|pour éviter qu'on le compare à son winner de père.|Il compte bientôt être candidat aux élections.|
+%s (Ange/Béhémoth)|Il règne sur la nature avec un visage effrayant,|lequel cache son bon cœur et son désir de protéger|l'environnement. Il élimine les vilains braconniers avec des|vagues, des répliques et ses poings sacrés.|
+%s (Zombie/Béhémoth)|Cette fourmi a trimé afin de récolter des vivres|pour l'hiver, et a fini par tant manger qu'elle|se retrouve à deux doigts de la mort.|Son estomac explose à la moindre contrariété.|
+%s (Ange/Colosse)|Le fils d'un entrepreneur qui s'est fait pistonner pour|décrocher un boulot. Il a subi des manipulations génétiques|pour éviter qu'on le compare à son winner de père.|Il compte bientôt être candidat aux élections.|
 【%s】|仮1|仮2|仮3|仮4|
 【%s】|仮1|仮2|仮3|仮4|
 【%s】|仮1|仮2|仮3|仮4|
@@ -625,28 +625,30 @@
 %s (Béhémoth)|Oiseau ancestral nimbé de foudre qui vit dans|une tour céleste. Selon la légende, cette créature|majestueuse dissimule néanmoins un naturel violent,|en particulier quand il est acculé.|
 【%s】|仮1|仮2|仮3|仮4|
 【%s】|仮1|仮2|仮3|仮4|
-【%s】 (Relique/Béhémoth)|Canard vieux jeu qui traîne trois petits.|Tendance à se mettre en boule. Un parent|sévère qui élève ses canetons pour qu’un jour ils quittent|le nid. Envoie de l’argent à son plus jeune caneton.|
-【%s】 (Relique/Béhémoth)|Un grand gorille qui garde le bois Sacré|depuis les temps anciens. Considéré comme l’origine de|l’homme. Peut résister aux Béhémoths qui|savent manier le « Mal ancien ».|
-【%s】 (Relique/Colosse)|Emmagasine le Charburant et fabrique toutes choses.|Grâce à sa puissance ultime totalement éveillée, accule|ses ennemis sans pitié avec ses énormes pattes et achève|ses proies en faisant montre d’une puissance implacable.|
-【%s】 (Flottant)|Erre dans des mondes infinis en laissant une traînée de |destruction et de création dans son sillage. Sa|création reste un mystère, tout comme son pouvoir. Tous|les effets négatifs sont inefficaces contre cette créature.|
+%s (Relique/Béhémoth)|Canard vieux jeu qui traîne trois petits.|Tendance à se mettre en boule. Un parent|sévère qui élève ses canetons pour qu’un jour ils quittent|le nid. Envoie de l’argent à son plus jeune caneton.|
+%s (Relique/Béhémoth)|Un grand gorille qui garde le bois Sacré|depuis les temps anciens. Considéré comme l’origine de|l’homme. Peut résister aux Béhémoths qui|savent manier le « Mal ancien ».|
+%s (Relique/Colosse)|Emmagasine le Charburant et fabrique toutes choses.|Grâce à sa puissance ultime totalement éveillée, accule|ses ennemis sans pitié avec ses énormes pattes et achève|ses proies en faisant montre d’une puissance implacable.|
+%s (Reliquia/Coloso)|Erre dans des mondes infinis en laissant une traînée de |destruction et de création dans son sillage. Sa|création reste un mystère, tout comme son pouvoir. Tous|les effets négatifs sont inefficaces contre cette créature.|
 【%s】|仮1|仮2|仮3|仮4|
 【%s】|仮1|仮2|仮3|仮4|
 【%s】|仮1|仮2|仮3|仮4|
-【%s】(Akus) (Béhémoth)|Un sculpteur à succès qui vit en pleine nature. |A passé un contrat Aku pour gagner la vision rayons X|et mieux sculpter les nus. Mais ne peut désormais que|voir les os à travers les habits et la peau...|
+%s (Aku/Béhémoth)|Un sculpteur à succès qui vit en pleine nature. |A passé un contrat Aku pour gagner la vision rayons X|et mieux sculpter les nus. Mais ne peut désormais que|voir les os à travers les habits et la peau...|
 【%s】|仮1|仮2|仮3|仮4|
-【%s】(Aku)|Influenceuse qui attire l'attention de tous|par sa plastique et son influence. Elle vit dans le luxe.|Célèbre créatrice de tendances vestimentaires.|Elle donne tout son argent aux plus démunis.|
-【%s】(Aku) (Colosse)|Un labo secret d'expériences génétiques douteuses|a amélioré et rendu gigantesques les enfants de Cerbère,|qui disposent de séries offensives et d'immobilisations.|Leur létalité augmente à chaque combat.|
-【%s】(Flottant)|Petit frère du Cyclone blanc. Étudie l'aspiration et|la durabilité en dernière année de fac. Après|l'explosion du marché des robots aspirateurs, il a|du mal à trouver un lieu de travail.|
-【%s】(Rouge) (Béhém.)|Un pégase géant capable d'enflammer les cieux|et de réduire la terre en cendres. Quiconque le contemple|est submergé de mini-vagues et immobilisé|jusqu'à finir brûlé vif.|
+%s (Aku)|Influenceuse qui attire l'attention de tous|par sa plastique et son influence. Elle vit dans le luxe.|Célèbre créatrice de tendances vestimentaires.|Elle donne tout son argent aux plus démunis.|
+%s (Aku/Colosse)|Un labo secret d'expériences génétiques douteuses|a amélioré et rendu gigantesques les enfants de Cerbère,|qui disposent de séries offensives et d'immobilisations.|Leur létalité augmente à chaque combat.|
+%s (Flottant)|Petit frère du Cyclone blanc. Étudie l'aspiration et|la durabilité en dernière année de fac. Après|l'explosion du marché des robots aspirateurs, il a|du mal à trouver un lieu de travail.|
+%s (Rouge/Béhém.)|Un pégase géant capable d'enflammer les cieux|et de réduire la terre en cendres. Quiconque le contemple|est submergé de mini-vagues et immobilisé|jusqu'à finir brûlé vif.|
 %s (Alien/Béhémoth)|Cochon serviteur de la 56e reine du Royaume des gorets.|A fui après une dépression nerveuse suite à trop de |promenades habillées. Mais en profitant de sa vie de cochon|sauvage, a réalisé que ces habits étaient ses propres poils.|
 %s (Béhémoth)|Élevé dans un monde sans merci, manque totalement de tact |avec les dames. Après avoir léché ses plaies |suite à de constants rejets, a gagné une force mentale|suffisante pour surmonter tous les effets négatifs.|
 %s (Aku)|Après 560 000 ans, est rentré dans notre monde sous|la forme d’un tyran infernal pour prendre une photo |pour un blind date. Prévoit totalement de faire impression|avec sa taille, ses excellentes notes et sa forte glycémie.|
-【%s】|Horrible enchanteresse résidant dans les plus profonds|confins d’un labyrinthe. Piège ses victimes dans des|boucles d’histoires sans fin affreusement monotones|portant sur son grand frère dans les Royaumes Akus.|
-【%s】|||||
-【%s】|||||
-【%s】|||||
-【%s】|||||
-【%s】|||||
+%s |Horrible enchanteresse résidant dans les plus profonds|confins d’un labyrinthe. Piège ses victimes dans des|boucles d’histoires sans fin affreusement monotones|portant sur son grand frère dans les Royaumes Akus.|
+%s |||||
+%s |||||
+%s |||||
+%s|||||
+%s|||||
 %s (Ange)|Loutre gardienne des portes du paradis.|Envoie tous ceux indignes de déambuler au paradis|aux enfers grâce à son orbe d’or. Invoque des|monstres avec le pouvoir des répliques offensives.|
 %s (Relique/Béhémoth)|Ancêtre de toutes les espèces envahisseuses. Il|devait exterminer tous les nuisibles, mais son|appétit incontrôlable l’a rendu difficile à dresser et|est devenu un danger pour le monde qui l’entoure.|
-【%s】|||||
+%s|||||
+%s (Zombie/Flott./Béhém.)|Après s’être fait recaler de la fac 10 fois,|a lâché les études en apprenant qu’on n’avait|pas besoin de diplôme pour être mort-vivant.|Il lui arrive encore de se dire "et si"...|
+%s|Grand yokai domestiqué qui vit dans les marais.|Sa force due à son régime à base de melon|amer en fait un terrible assaillant,|mais à la maison, c’est sa femme qui commande.|

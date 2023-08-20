@@ -874,6 +874,32 @@
       "PercentBanner": 50,
       "NekoBageImg": "S_260"
     },
+    "1282": {
+      "eventWeight": 2,
+      "priority": 2,
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "FusumaImgPNG": "img009_S_282.png",
+      "FusumaImgIMGCUT": "img009_Event00.imgcut",
+      "NekoBageImg": "S_282",
+      "TitleImgLogo": "_S_282",
+      "PercentTitle": 100,
+      "SelectStageImg": "S_282",
+      "SelectStageImgReverse": 1
+    },
+    "1283": {
+      "eventWeight": 2,
+      "priority": 2,
+      "FusumaOpenOffsetX": 0,
+      "FusumaOpenOffsetY": 458,
+      "FusumaImgPNG": "img009_S_282.png",
+      "FusumaImgIMGCUT": "img009_Event00.imgcut",
+      "NekoBageImg": "S_282",
+      "TitleImgLogo": "_S_282",
+      "PercentTitle": 100,
+      "SelectStageImg": "S_282",
+      "SelectStageImgReverse": 1
+    },
     "24041": {
       "eventWeight": 1,
       "priority": 1,

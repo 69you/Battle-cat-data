@@ -769,7 +769,7 @@ calendar_99h	99hrs +
 legendquest_tutorial1	Welcome to the Legend Quests!<br>Challenge a special stage<br> with a random selection of Cats!
 legendquest_tutorial2	Crowns required to challenge this stage!<br>Get Crowns by clearing Level 1-4<br>stages in Legend maps.
 legendquest_tutorial3	Be aware that Crowns, Energy and<br>Items will not be returned after<br>escaping from a Legend Quest battle!
-legendquest_Cancel	Escape from Battle?<br><color=255,0,0>Crowns, Energy and Items will not be returned.</color>
+legendquest_Cancel	Not enough Crowns...<br>Collect Crowns by clearing<br>Legend Map stages.
 legendquest_warning	Not enough Crowns...<br>Collect Crowns by clearing<br>Legend Map stages.
 legendquest_popup	<flash>Legend Quest</flash><br>Take on a random stage with a randomized formation!<br>※ Use Crowns earned from Legend stages and Energy to challenge!<br>※ Each try of a stage will cost more Crowns to enter battle.<br>※Crowns, Energy and Items will not be refunded after escape from battle.
 score_sns	My Battle Cats scored %d pts. at "%@"! %s %s
@@ -1324,9 +1324,9 @@ item_pack_name_68	XP Rank-Up Pack
 item_pack_name_74	Cat Food Rank-Up Pack
 potential_skill_warning01	Ultra Talent unlockable at <flash>Lv. ${level}</flash><br>※Total level includes MAX+ levels
 potential_skill_warning02	Second Talent Orb slot unlockable at <flash>Lv. ${level}</flash><br>※Total level includes MAX+ levels
-potential_skill_option00	<flash>${charaName}</flash>has<br>gained an Ultra Talent!
-potential_skill_option01	<flash>${charaName}</flash>has<br>gained a new Talent Orb slot!
-potential_skill_option02	<flash>${charaName}</flash>has<br>gained an Ultra Talent and a Talent Orb slot!
+potential_skill_option00	<flash>${charaName}</flash> has<br>gained an Ultra Talent!
+potential_skill_option01	<flash>${charaName}</flash> has<br>gained a new Talent Orb slot!
+potential_skill_option02	<flash>${charaName}</flash> has<br>gained an Ultra Talent and a Talent Orb slot!
 potential_name1	Ultra Talent
 potential_skill_name61	Attack Frequency Up
 item_pack_name_75	Progression Pack
@@ -1355,3 +1355,26 @@ potential_skill_name63	Colossus Slayer
 potential_skill_name64	Behemoth Slayer
 stage_restriction_charagroup_9	Cat
 potential_skill_name65	Mini-Surge
+slot_SNS_002	I got %d Cat Food from the Wildcat Slots in #TheBattleCats!<br><br>#BattleCats #9Years
+stageskip_message_2	Clear Baron Seal Strikes ””${stageName1}""!<br>Start the next challenge from <flash>${stageName2}</flash>.
+stageskip_message_3	Clear Le'Grim Strikes ”${stageName1}"!<br>Start the next challenge from <flash>${stageName2}</flash>.
+stageskip_message_4	Clear Mega Menace ”${stageName1}"!<br>Start the next challenge from <flash>${stageName2}</flash>.
+stageskip_message_5	Clear Horrorpotamus ”${stageName1}"!<br>Start the next challenge from <flash>${stageName2}</flash>.
+stageskip_message_6	Clear Divine Archangel Strikes ”${stageName1}"!<br>Start the next challenge from <flash>${stageName2}</flash>.
+stageskip_message_7	Clear Big Peng Z Strikes ”${stageName1}"!<br>Start the next challenge from <flash>${stageName2}</flash>.
+stageskip_message_8	Clear Attack of the Omens ”${stageName1}"!<br>Start the next challenge from <flash>${stageName2}</flash>.
+unlock_popup_message_138	<flash>Skip battles with the Cat CPU!</flash><br>Receive rewards of stages you've cleared without<br>replaying by tapping the Cat CPU item icon.<br>Note: You cannot Skip Battle for some stages.
+ScatCPU_info1	Use <flash>${itemNum1}</flash> ${itemName1}(s) to skip the battle?<br>You have ${itemNum2} skip(s) left today.
+ScatCPU_info2	<flash>Unlimited Cat CPUs for all!</flash><br>Would you like to skip the battle?<br>You have ${itemNum} skip(s) left today.
+ScatCPU_XPdrop	<color=255,255,0>Total Victory!</color><br>You <flash>got</flash> XP for clearing the stage!<br>${itemName} +${itemNum}
+ScatCPU_message	<color=0,0,0>Leave the battle to </color><color=255,0,255>the Cat CPU</color><color=0,0,0>!<br>It's only useful to a point, having been<br>programmed by mere Cats, but it's just advanced enough<br>to handle stages you've previously cleared!</color>
+ScatCPU_error1	You've reached your battle-skipping limit.<br>Your skip limit will fully reset at midnight.
+ScatCPU_error2	Your device time may have been changed.<br>You will be unable to skip battles for a while.
+ScatCPU_error3	You are out of Cat CPUs.<br>Go to the Item Shop?
+ScatCPU_error4	Use a <flash>${itemNum1}</flash> ${itemName1}(s) to skip the battle?<br><color=255,255,0>You won't be able to get Timed Score rewards from stages.</color><br>You have ${itemNum2} skip(s) left today.
+ScatCPU_error5	Unlimited Cat CPUs for all!<br>Do you want to skip the battle?<br><color=255,255,0>You will not be able to get Timed Score rewards on the stages that have them.</color><br>You have ${itemNum2} skip(s) left today.
+ScatCPU_error6	Use a <flash>${itemNum1}</flash> ${itemName1}(s) to skip the battle?<br><color=255,255,0>Continuation Stages won't appear after skipping a battle.</color><br>You have ${itemNum2} skip(s) left today.
+ScatCPU_error7	Unlimited Cat CPUs for all!<br>Skip the battle?<br><color=255,255,0>Continuation Stages won't appear after skipping a battle.</color><br>You have ${itemNum2} skip(s) left today.
+ScatCPU_error8	You cannot skip battles you have not cleared yet.
+ScatCPU_error9	No skipping battles fur this stage!<br>Meows the time to fight with your own strength!
+talk_004_push	The Battle Cats 〇X Cat Base Quiz is back!

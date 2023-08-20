@@ -94,7 +94,7 @@
 9051|Clear "Decisive Battle!" %d times!<br>Clear any Decisive Battle! stage: %d of %d
 9052|Clear "Decisive Battle!" %d times!<br>Clear any Decisive Battle! stage: %d of %d
 9053|Clear "Decisive Battle!" %d times!<br>Clear any Decisive Battle! stage: %d of %d
-9054|Clear a stage using a catcombo with "Eva Angel Killer" effect!<br>Use Shinji and ??? together (after Empire Ch. 1)|Check the Special Missions to access<br>this Evangelion Collab Mission!
+9054|Clear a stage using a catcombo with "Eva Angel Killer" effect!<br>Use Shinji and ??? together (after Empire Ch. 1)|Check the Special Missions to access<br>Evangelion Collab missions!
 9055|Destroy the 4th Angel<br>Encounter this enemy at "State of Emergency"
 9056|Destroy the 6th Angel<br>Encounter this enemy at "Futagoyama Fortress"
 9057|Destroy the 9th Angel<br>Encounter this enemy at "Asuka On Board (Easy)"
@@ -695,29 +695,29 @@
 9280|
 9281|
 9282|
-9283||
-9284|
-9285|
+9283|[Q1. Qu’est-ce dans la boîte ?] Devine l’unité secrète !<br>Indice : une médaille bourrée de remerciements.|Consulte les missions spéciales pour accéder<br>à cette mission [Q1. Qu’y a-t-il dans la boîte ?] !
+9284|[Q1. Qu’est-ce dans la boîte ?] Devine l’unité secrète !<br>Indice : un Chat qui porte vaguement bonheur.
+9285|[Q1. Qu’est-ce dans la boîte ?] Devine l’unité secrète !<br>Indice : un ninja qui bondit de planète en planète.
 9286|
 9287|
-9288||
-9289|
-9290|
-9291|
-9292|
-9293|
-9294||
-9295||
-9296|
-9297|
-9298|
-9299|
-9300|
-9301||
-9302|
-9303|
+9288|[Q2. Géographie] De quel pays provient le sushi ?<br>Réponds en terminant ce niveau dans L’empire des Chats !|Consulte les missions spéciales pour accéder<br>à cette mission [Q2. Géographie] !
+9289|[Q2. Géographie] Quel est le plus célèbre désert d’Afrique ?<br>Réponds en terminant ce niveau dans L’empire des Chats !
+9290|[Q2. Géographie] D'où vient le peintre Salvador Dali ?<br>Réponds en terminant ce niveau dans L’empire des Chats !
+9291|[Q2. Géographie] Où est le triangle qui fait disparaître les avions ?<br>Réponds en terminant ce niveau dans L’empire des Chats !
+9292|[Q2. Géographie] Quel est le plus grand État d'Amérique ?<br>Réponds en terminant ce niveau dans L’empire des Chats !
+9293|[Q2. Géographie] Parcours le monde<br>et réponds aux %d questions du quiz ! (%d sur %d)
+9294|[Q3. Base féline]<br>Réponds à toutes les questions que pose le Chat !|Consulte les missions spéciales pour accéder<br>à cette mission [Q3. Base féline] !
+9295|[Q4. Abattage] Qui cherche à entrer à la fac tous les ans ?<br>Réponds en battant cet ennemi dans L’empire des Chats !|Consulte les missions spéciales pour accéder<br>à cette mission [Q4. Abattage] !
+9296|[Q4. Abattage] Quel ennemi suit des cours de théâtre ?<br>Réponds en battant cet ennemi dans L’empire des Chats !
+9297|[Q4. Abattage] Quel ennemi collectionne les magazines ?<br>Réponds en battant cet ennemi dans L’empire des Chats !
+9298|[Q4. Abattage] Quel ennemi est pompier ?<br>Réponds en battant cet ennemi dans L’empire des Chats !
+9299|[Q4. Abattage] Qui a trouvé une tête géante sur la route ?<br>Réponds en battant cet ennemi dans L’empire des Chats !
+9300|[Q4. Abattage] Parcours le monde<br>et réponds aux %d questions du quiz ! (%d sur %d)
+9301|[Q5. Temps et chance] Après complétion du niveau, porte chance<br>et ouvre la porte ! Termine %d niveaux Paradis ! (%d sur %d)|Consulte les missions spéciales pour accéder<br>à cette mission [Q5. Temps et chance] !
+9302|[Q5. Temps et chance] Après complétion du niveau, porte chance<br>et ouvre la porte ! Termine %d niveaux Paradis ! (%d sur %d)
+9303|[Q5. Temps et chance] Après complétion du niveau, porte chance<br>et ouvre la porte ! Termine %d niveaux Paradis ! (%d sur %d)
 9304|
-46|
+46|Mission du 9e anniversaire<br>Termine L’empire des Chats ch. 1 pendant cet événement !
 9305|Termine le 30e étage de la Tour infernale<br>* Récompense à récupérer une seule fois.|Des missions de la Tour infernale<br>ont été ajoutées aux missions spéciales !
 47|Rapport de l'impératrice : Chercheur en Aku<br>Termine les niv. 1 à 5, %d fois chacun. (%d/%d terminé(s))|Missions Recherche de l'impératrice ajoutées<br>à la section Missions principales !
 9306||
@@ -858,3 +858,10 @@
 9429|Marque plus de 6 200 points sur<br>#02 Le mariage de la peur, niveau 4
 9430|Marque plus de 4 500 points sur<br>#02 Le mariage de la peur, niveau 5
 9431|Gagne une pierre B. en atteignant le score cible<br>sur #02 Le mariage de la peur, niveaux 1-5 !
+9432|[Q1. Qu’y a-t-il dans la boîte ?] Gagne toutes les<br>unités mystères des Chapsules d’événement ! (%d sur %d)
+9433|[Ultra quiz] Termine les missions Q1~5 pour gagner un prix<br>valant 1 million de $(selon les Chats numériques) !
+60|Termine %d niveaux Abattage de Béhémoths pour la 1re fois.<br>(Niveaux indiqués dans les détails de mission : %d sur %d)
+61|Termine %d niveaux Abattage de Béhémoths pour la 1re fois.<br>(Niveaux indiqués dans les détails de mission : %d sur %d)
+9434||
+9435|
+9436|

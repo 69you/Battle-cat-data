@@ -769,7 +769,7 @@ calendar_99h	=+99 h
 legendquest_tutorial1	¡Este es el Reto Legendario!<br>Aquí podrás ponerte a prueba en fases especiales<br>con un equipo aleatorio.
 legendquest_tutorial2	Se necesitan coronas para enfrentarse a esta fase.<br>Puedes conseguir coronas superando<br>fases legendarias (nvl. 1-4).
 legendquest_tutorial3	Recuerda que no recuperarás coronas, energía<br>ni potenciadores si decides<br>huir de una batalla del Reto Legendario.
-legendquest_Cancel	¿Quieres huir de la batalla?<br><color=255,0,0>No recuperarás coronas, energía ni potenciadores.</color>
+legendquest_Cancel	No tienes suficientes coronas.<br>Puedes conseguir coronas<br>superando fases legendarias.
 legendquest_warning	No tienes suficientes coronas.<br>Puedes conseguir coronas<br>superando fases legendarias.
 legendquest_popup	<flash>Reto Legendario</flash><br>¡Enfréntate a una fase aleatoria con una formación de combate al azar!<br>* Para participar necesitas energía y las coronas que ganes en las fases legendarias.<br>* Cada nuevo intento tendrá un coste de coronas más elevado que el anterior.<br>* Si decides huir de la batalla, no recuperarás las coronas, la energía ni los potenciadores utilizados.
 score_sns	Mis gatos han conseguido %d puntos en %@. %s %s
@@ -1349,3 +1349,35 @@ potential_skill_name63	Matacolosos
 potential_skill_name64	Matamastodontes
 stage_restriction_charagroup_9	Gato
 potential_skill_name65	Mini-réplica
+slot_SNS_002	¡Conseguí %d de Friskas en las Tragagatos de #TheBattleCats!<br><br>#BattleCats #9Años
+stageskip_message_2	¡Barón Foca Ataca «${stageName1}» superado!<br>Empieza el siguiente desafío en <flash>${stageName2}</flash>.
+stageskip_message_3	¡Ataque de L. Fante Letal «${stageName1}» superado!<br>Empieza el siguiente desafío en <flash>${stageName2}</flash>.
+stageskip_message_4	¡Megaamenaza «${stageName1}» superado!<br>Empieza el siguiente desafío en <flash>${stageName2}</flash>.
+stageskip_message_5	¡Horrorpótamo «${stageName1}» superado!<br>Empieza el siguiente desafío en <flash>${stageName2}</flash>.
+stageskip_message_6	¡Sr. Ángel Divino Ataca «${stageName1}» superado!<br>Empieza el siguiente desafío en <flash>${stageName2}</flash>.
+stageskip_message_7	¡Gran Ping Pong Z. Ataca «${stageName1}» superado!<br>Empieza el siguiente desafío en <flash>${stageName2}</flash>.
+stageskip_message_8	¡Ataque de los augurios «${stageName1}» superado!<br>Empieza el siguiente desafío en <flash>${stageName2}</flash>.
+unlock_popup_message_138	<flash>¡Sáltate batallas usando gatomáticos!</flash><br>Para omitir batallas de fases ya superadas y recibir los premios, pulsa en el icono que aparece al seleccionar los objetos.<br>Nota: Las batallas de ciertas fases no se pueden omitir.
+ScatCPU_info1	¿Usar <flash>${itemNum1}</flash> ${itemName1}(s) para omitir la batalla?<br>Todavía puedes omitir ${itemNum2} batalla(s) más hoy.
+ScatCPU_info2	<flash>¡Gatomáticos a tutiplén!</flash><br>¿Quieres omitir esta batalla?<br>Todavía puedes omitir ${itemNum} batalla(s) más hoy.
+ScatCPU_XPdrop	<color=255,255,0>¡Victoria demoledora!</color><br>¡Has <flash>conseguido</flash> XP por superar la fase!<br>${itemName} +${itemNum}
+ScatCPU_message	<color=255,0,255>El gatomático</color><color=0,0,0> está en camino.<br>¡No será perfecto (al fin y al cabo está programado por gatos),<br>pero te puede ayudar con las fases que ya hayas superado si pulsas su icono!</color>
+ScatCPU_error1	Has llegado al límite de batallas que puedes omitir.<br>El límite se restablecerá por completo a medianoche.
+ScatCPU_error2	Parece que se ha modificado la hora del dispositivo.<br>No podrás omitir batallas durante un tiempo.
+ScatCPU_error3	No te quedan gatomáticos.<br>¿Quieres ir a la tienda?
+ScatCPU_error4	¿Quieres usar <flash>${itemNum1}</flash> ${itemName1}(s) para omitir la batalla?<br><color=255,255,0>No recibirás los premios de las fases a contrarreloj.</color><br>Todavía puedes omitir ${itemNum2} batalla(s) más hoy.
+ScatCPU_error5	¡Gatomáticos a tutiplén!<br>¿Quieres omitir la batalla?<br><color=255,255,0>No recibirás los premios de las fases a contrarreloj.</color><br>Todavía puedes omitir ${itemNum2} batalla(s) más hoy.
+ScatCPU_error6	¿Quieres usar <flash>${itemNum1}</flash> ${itemName1}(s) para omitir la batalla?<br><color=255,255,0>Las fases de continuación no aparecen cuando se omite una batalla.</color><br>Todavía puedes omitir ${itemNum2} batalla(s) más hoy.
+ScatCPU_error7	¡Gatomáticos a tutiplén!<br>¿Quieres omitir la batalla?<br><color=255,255,0>Las fases de continuación no aparecen cuando se omite una batalla.</color><br>Todavía puedes omitir ${itemNum2} batalla(s) más hoy.
+ScatCPU_error8	No puedes omitir batallas que no hayas superado antes.
+ScatCPU_error9	¡En esta fase felinada de omitir batallas!<br>¡Ahora es el miaumento de demostrar lo que vales!
+
+
+
+
+
+
+
+
+
+

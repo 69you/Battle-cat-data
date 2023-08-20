@@ -373,7 +373,7 @@
 |||||
 |||||
 |||||
-%s (Angel./Alieno)|Un uccello super sicuro di sé chiamato così|dai genitori che credevano in lui. La sua|arroganza è così estrema che ha consumato|la sua dimensione nativa e l'ha portato in questa.|
+%s (Angel/Alieno)|Un uccello super sicuro di sé chiamato così|dai genitori che credevano in lui. La sua|arroganza è così estrema che ha consumato|la sua dimensione nativa e l'ha portato in questa.|
 |||||
 %s (Alieno)|Uno strappo nello spazio-tempo apertosi dentro|una nebulosa. Manipola il continuum per|teletrasportare i Gatti. Puoi vincere se|attacchi da lontano...|
 |||||
@@ -497,7 +497,7 @@
 %s (Antico)|Guardiani delle lande primordiali.|Nessun intruso è mai uscito vivo dalla loro|foresta sacra. Solo chi li sconfigge|può sbirciare dietro la maschera.|
 %s (Metallico)|Cocco si offrì volontario per la cyborgizzazione|per diventare il membro più potente|del suo clan. Il budget è finito a metà|strada, ma lui fa funzionare il look.|
 %s (Fluttuante)|Tacchino che è anche un venditore provetto.|È andato da un veggente a ottobre e|ha ricevuto pessime notizie sul suo futuro.|Si prepara a scappare allenando le ali.|
-%s (Rosso) (Gigante)|Un laboratorio segreto ha modificato un genoma|per creare la Foca migliore. Si consiglia |estrema cautela: causa immobilità e indebolimento.|La sua letalità aumenta a ogni battaglia.|
+%s (Rosso/Gigante)|Un laboratorio segreto ha modificato un genoma|per creare la Foca migliore. Si consiglia |estrema cautela: causa immobilità e indebolimento.|La sua letalità aumenta a ogni battaglia.|
 |||||
 |||||
 |||||
@@ -508,12 +508,12 @@
 |||||
 |||||
 |||||
-%s (Nero) (Gigante)|Un laboratorio segreto ha modificato un genoma|per creare l'Elenoir migliore, di impareggiabile|stazza e aggressività, con attacchi che rallentano.|La sua letalità aumenta a ogni battaglia.|
+%s (Nero/Gigante)|Un laboratorio segreto ha modificato un genoma|per creare l'Elenoir migliore, di impareggiabile|stazza e aggressività, con attacchi che rallentano.|La sua letalità aumenta a ogni battaglia.|
 %s (Zombi)|Una specie di Clionel in qualche modo sopravvissuto (?)|all'estinzione di massa degli oceani inquinati del suo|mondo. Non avvicinarti mai più a me o ai miei figli.|Pare che paralizzi i Gatti con la paura.|
 %s (Zombi)|Amato nipote dello zio senza figli Ziclone.|Ha la forza della madre e lo spirito timido del|padre, e li unisce in una piccola tempesta affamata|che nasconde al primo segno di pericolo.|
 %s (Angelico)|Leale fino alla fine, attende pazientemente|l'arrivo del suo padrone ai cancelli del paradiso.|Una famosa statua che lo rappresenta durante un attacco a|valanga è un punto di incontro gettonato tra gli adolescenti.|
 %s|Un bebè esperto con oltre 7 anni di esperienza|nell'infanzia. Ha perfezionato il pianto finto, abbastanza|potente da stendere gli estranei. Rifiutato|da 2 asili d'élite a causa di questo "talento".|
-%s (Fluttuante) (Gigante)|Un laboratorio segreto ha modificato un genoma|per creare la Falena migliore. Con le sue ali|giganti provoca respinte ai danni delle prede.|La sua letalità aumenta a ogni battaglia.|
+%s (Fluttuante/Gigante)|Un laboratorio segreto ha modificato un genoma|per creare la Falena migliore. Con le sue ali|giganti provoca respinte ai danni delle prede.|La sua letalità aumenta a ogni battaglia.|
 %s|Capo di un potente clan in pensione, comanda|ancora segretamente. Ha costruito un nascondiglio segreto|su un'alta torre per passare del tempo con la sua ragazza,|prima che si intrufolassero quei Gatti cafoni!|
 %s (Metallico)|Mascotte/allenatore di base per i campioni dell'NLB, i|Koala Kattivi. Costringe a rigiocare tante partite|perché invade il campo quando la squadra sta perdendo.|La durezza del suo allenamento è temuta da tutti.|
 |||||
@@ -523,7 +523,7 @@
 |||||
 |||||
 |||||
-%s (Alieno) (Gigante)|Un laboratorio segreto ha modificato un genoma|per creare l'Yppo migliore, di stazza enorme|con l'abilità di rallentamento su chi oppone resistenza.|La sua letalità aumenta a ogni battaglia.|
+%s (Alieno/Gigante)|Un laboratorio segreto ha modificato un genoma|per creare l'Yppo migliore, di stazza enorme|con l'abilità di rallentamento su chi oppone resistenza.|La sua letalità aumenta a ogni battaglia.|
 %s (Antico)|Soggetto 002 (Forma di vita paleobatterica)|Potenziale di combattimento: Incommensurabile.|Nonostante l'apparenza, tratto Fluttuante non presente|Rendimento corrispondente a capacità ridotta|
 %s (Zombi/Flutt.)|Un uccello così in forma da poter attraversare|il Fiume Stige ogni volta che vuole.|Sconvolto dal fatto di non poter impedire alla massa|che ha coltivato tanto duramente di marcire.|
 |||||
@@ -590,9 +590,9 @@
 |||||
 |||||
 |||||
-[%s] (Rosso)|I. Ena ha una dipendenza da finta|Vitamiao C e ha perso il contatto con la realtà,|sostenendo di essere un Berserker fatto per la battaglia.|Attacchi a valanga tengono a distanza i nemici.|
-%s (Angelico) (Gigante)|Un laboratorio segreto ha modificato un genoma|per creare il Mr. Angelo migliore, che guida|i peccatori con indebolimento e teletrasporto verso la|salvezza. La sua letalità aumenta a ogni battaglia.|
-%s (Zombi) (Gigante)|Un laboratorio segreto ha modificato un genoma|per creare il Ping migliore, a scala colossale|con l'abilità di spruzzare tossine in ogni direzione.|La sua letalità aumenta a ogni battaglia.|
+%s (Rosso)|I. Ena ha una dipendenza da finta|Vitamiao C e ha perso il contatto con la realtà,|sostenendo di essere un Berserker fatto per la battaglia.|Attacchi a valanga tengono a distanza i nemici.|
+%s (Ang./Gigante)|Un laboratorio segreto ha modificato un genoma|per creare il Mr. Angelo migliore, che guida|i peccatori con indebolimento e teletrasporto verso la|salvezza. La sua letalità aumenta a ogni battaglia.|
+%s (Zombi/Gigante)|Un laboratorio segreto ha modificato un genoma|per creare il Ping migliore, a scala colossale|con l'abilità di spruzzare tossine in ogni direzione.|La sua letalità aumenta a ogni battaglia.|
 |||||
 |||||
 |||||
@@ -608,12 +608,12 @@
 %s (Rosso/Gigante)|Questo coniglietto è scappato da un laboratorio segreto|che modificava il genoma. I negozi che gestiva sono|falliti durante la sua assenza, ma i gioielli|sul suo didietro sono di buon auspicio.|
 %s|Nipote di Cane. Viene dal futuro per modificare|il passato, in cui suo nonno fu bocciato a un esame.|Le domande al test di ingresso sono così|diverse che sta avendo problemi a modificare il passato.|
 %s (Antico/Flutt.)|Un'arma distruttiva costruita dagli antichi.|Dicono che il suo raggio sia capace di grandi distruzioni.|Un saggio l'aveva nascosta sul fondo dell'oceano.|Dicono stia galleggiando in superficie.|
-%s (Aku) (Behemoth)|Un Behemoth potente diventato demoniaco dopo aver|perso la propria casa. Non gli piacciono gli |alberi della giungla in cui si trova. Può sparare|aculei dalla coda che immobilizzano i movimenti.|
-%s (Nero) (Behemoth)|Il terzo dei tre Fratelli Uccelli. A casa nell'oscurità,|ha coltivato piante pericolose, o almeno così|dicono. Può abbattere i nemici con ripetuti|colpi del becco e infliggere veleno.|
+%s (Aku/Behemoth)|Un Behemoth potente diventato demoniaco dopo aver|perso la propria casa. Non gli piacciono gli |alberi della giungla in cui si trova. Può sparare|aculei dalla coda che immobilizzano i movimenti.|
+%s (Nero/Behemoth)|Il terzo dei tre Fratelli Uccelli. A casa nell'oscurità,|ha coltivato piante pericolose, o almeno così|dicono. Può abbattere i nemici con ripetuti|colpi del becco e infliggere veleno.|
 %s (Antico)|Un cane di argilla creato per fare da guardia alle case.|Ha una serie di funzionalità di interferenza e disturbo|per impedire a chiunque di raggiungere la casa.|Miglior caratteristica: assomiglia al padrone.|
-%s (Ang.) (Behemoth)|Sovrano della natura con un volto spaventoso che|nasconde il suo cuore gentile e il desiderio di proteggere|l'ambiente. Con ondate, valanghe e il suo sacro|pugno, sconfigge i malvagi bracconieri.|
-%s (Zombie) (Behemoth)|Una formica che ha lavorato duramente per raccogliere cibo|per l'inverno, per poi mangiare troppo e ritrovarsi|in bilico tra la vita e la morte.|Il suo stomaco esplode se si innervosisce.|
-%s (Ang.) (Gigante)|Figlio di un imprenditore, ha trovato lavoro grazie a delle|conoscenze. Si è sottoposto a un intervento al genoma|per non essere paragonato al proprio padre.|In futuro ha intenzione di candidarsi alle elezioni.|
+%s (Ang./Behemoth)|Sovrano della natura con un volto spaventoso che|nasconde il suo cuore gentile e il desiderio di proteggere|l'ambiente. Con ondate, valanghe e il suo sacro|pugno, sconfigge i malvagi bracconieri.|
+%s (Zombie/Behemoth)|Una formica che ha lavorato duramente per raccogliere cibo|per l'inverno, per poi mangiare troppo e ritrovarsi|in bilico tra la vita e la morte.|Il suo stomaco esplode se si innervosisce.|
+%s (Ang./Gigante)|Figlio di un imprenditore, ha trovato lavoro grazie a delle|conoscenze. Si è sottoposto a un intervento al genoma|per non essere paragonato al proprio padre.|In futuro ha intenzione di candidarsi alle elezioni.|
 【%s】|仮1|仮2|仮3|仮4|
 【%s】|仮1|仮2|仮3|仮4|
 【%s】|仮1|仮2|仮3|仮4|
@@ -625,28 +625,30 @@
 %s (Behemoth)|Uccello ancestrale avvolto nei tuoni che vive in|una torre nel cielo. Le leggende dicono che è uno|spettacolo da vedere, ma nasconde una personalità violenta|che diventa più feroce quando viene messo in difficoltà.|
 【%s】|仮1|仮2|仮3|仮4|
 【%s】|仮1|仮2|仮3|仮4|
-【%s】 (Antico/Behemoth)|Anatra anziana seguita da tre piccoli.|Tende a perdere il controllo. Madre severa|che alleva gli anatroccoli che un giorno lasceranno|il nido. Invia denaro al suo anatroccolo più giovane.|
-【%s】 (Antico/Behemoth)|Una grande scimmia che custodisce i Boschi Sacri|fin dall'antichità. È ritenuto il progenitore|dell'uomo. Può resistere ai Behemoth che|esercitano la "Maledizione Antica".|
-【%s】 (Antico/Gigante)|Assorbe l'energia che compone ogni cosa.|Se risveglia tutto il suo potere, colpisce qualsiasi cosa|con i suoi enormi pugni senza alcuna pietà e|finisce la sua preda con una potenza implacabile.|
-【%s】 (Fluttuante)|Vaga per i mondi lasciando una scia |di distruzione e creazione. La sua|composizione è misteriosa quanto il suo potere.|È immune a tutti gli effetti negativi.|
+%s (Antico/Behemoth)|Anatra anziana seguita da tre piccoli.|Tende a perdere il controllo. Madre severa|che alleva gli anatroccoli che un giorno lasceranno|il nido. Invia denaro al suo anatroccolo più giovane.|
+%s (Antico/Behemoth)|Una grande scimmia che custodisce i Boschi Sacri|fin dall'antichità. È ritenuto il progenitore|dell'uomo. Può resistere ai Behemoth che|esercitano la "Maledizione Antica".|
+%s (Antico/Gigante)|Assorbe l'energia che compone ogni cosa.|Se risveglia tutto il suo potere, colpisce qualsiasi cosa|con i suoi enormi pugni senza alcuna pietà e|finisce la sua preda con una potenza implacabile.|
+%s (Fluttuante)|Vaga per i mondi lasciando una scia |di distruzione e creazione. La sua|composizione è misteriosa quanto il suo potere.|È immune a tutti gli effetti negativi.|
 【%s】|仮1|仮2|仮3|仮4|
 【%s】|仮1|仮2|仮3|仮4|
 【%s】|仮1|仮2|仮3|仮4|
-【%s】(Aku) (Behemoth)|Un apprezzato scultore che vive nella natura. |Ha fatto un patto Aku per ottenere la visione a raggi X|per scolpire meglio soggetti nudi, ma ora|vede attraverso i vestiti e la pelle, fino alle ossa...|
+%s (Aku/Behemoth)|Un apprezzato scultore che vive nella natura. |Ha fatto un patto Aku per ottenere la visione a raggi X|per scolpire meglio soggetti nudi, ma ora|vede attraverso i vestiti e la pelle, fino alle ossa...|
 【%s】|仮1|仮2|仮3|仮4|
-【%s】(Aku)|Inganna con la bellezza e il prestigio per attirare|l'attenzione. Vive una vita molto lussuriosa.|Nota per aver fatto scalpore con la sua moda.|Dona tutti i suoi soldi ai meno fortunati.|
-【%s】(Aku) (Gigante)|Un laboratorio segreto ha modificato un genoma|per migliorare gli amici di Cerbero, di misura gigante,|con attacchi valanga/immobilizzanti.|La sua letalità aumenta a ogni battaglia.|
-【%s】(Fluttuante)|Fratellino di Ciclone bianco. Studia aspirazione e|durata all'ultimo anno di università. Per via dell'aumento|di aspirapolveri robot, sta avendo difficoltà|a trovare un posto di lavoro.|
-【%s】(Rosso/Behemoth)|Enorme Pegaso che può incendiare i cieli e trasformare|la terra in cenere. Chiunque posi gli occhi su di lui|viene inghiottito da mini-ondate e legato sul posto|per essere bruciato vivo.|
+%s (Aku)|Inganna con la bellezza e il prestigio per attirare|l'attenzione. Vive una vita molto lussuriosa.|Nota per aver fatto scalpore con la sua moda.|Dona tutti i suoi soldi ai meno fortunati.|
+%s (Aku/Gigante)|Un laboratorio segreto ha modificato un genoma|per migliorare gli amici di Cerbero, di misura gigante,|con attacchi valanga/immobilizzanti.|La sua letalità aumenta a ogni battaglia.|
+%s (Fluttuante)|Fratellino di Ciclone bianco. Studia aspirazione e|durata all'ultimo anno di università. Per via dell'aumento|di aspirapolveri robot, sta avendo difficoltà|a trovare un posto di lavoro.|
+%s (Rosso/Behemoth)|Enorme Pegaso che può incendiare i cieli e trasformare|la terra in cenere. Chiunque posi gli occhi su di lui|viene inghiottito da mini-ondate e legato sul posto|per essere bruciato vivo.|
 %s (Alieno/Behemoth)|Maiale da compagnia della 56ª regina del Regno dei Suini.|Fuggito dopo aver sopportato fin troppo di andare |in giro vestito. Mentre si gode la vita da maiale selvatico,|si rende conto che i vestiti erano la sua stessa pelliccia.|
 %s (Behemoth)|Cresciuto in un mondo violento, non ha tatto quando |si tratta di donne. Dopo essere stato rifiutato |mille volte, ha acquisito la forza mentale|per superare qualsiasi effetto di stato negativo.|
 %s (Aku)|Dopo 560.000 anni è tornato nel nostro mondo|nella forma di un tiranno infernale per farsi una foto |in vista di un appuntamento al buio. Vuole far colpo con|l'altezza, i successi e la glicemia alta.|
-【%s】|Strega raccapricciante che risiede nelle profondità|di un labirinto. Sottopone le vittime cadute nelle sue|trappole a storie infinite e senza senso,|sempre sul fratello maggiore nei regni Aku.|
-【%s】|||||
-【%s】|||||
-【%s】|||||
-【%s】|||||
-【%s】|||||
+%s|Strega raccapricciante che risiede nelle profondità|di un labirinto. Sottopone le vittime cadute nelle sue|trappole a storie infinite e senza senso,|sempre sul fratello maggiore nei regni Aku.|
+%s|||||
+%s|||||
+%s|||||
+%s|||||
+%s|||||
 %s (Angelico)|Lontra che lavora ai cancelli del paradiso.|Manda chi non è degno di entrare nei cieli|negli inferi con la sua sfera dorata. Evoca|mostri con il potere della valanga.|
 %s (Antico/Behemoth)|L'antenato di tutte le specie invasive. Doveva|sterminare le bestie nocive, ma il suo|incontrollabile appetito lo ha reso difficile da|domare ed è diventato un pericolo per tutti.|
-【%s】|||||
+%s|||||
+%s (Zombi/Flutt./Behemoth)|Dopo 10 test di ingresso falliti,|ha rinunciato: infatti non serve|una laurea per essere non-morti.|Ha ancora dei rimpianti...|
+%s|Grande yokai addomesticato, vive nelle paludi.|Un colpo potente, potenziato da una dieta a|base di melone amaro, lo rende temibile,|ma a casa lo tiene a bada sua moglie.|

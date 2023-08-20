@@ -769,7 +769,7 @@ calendar_99h	99 ore +
 legendquest_tutorial1	Un benvenuto alle Imprese leggendarie!<br>Affronta un livello speciale<br>con una selezione casuale di Gatti!
 legendquest_tutorial2	Servono corone per affrontare questo livello!<br>Ottienile superando i livelli da 1-4<br>delle mappe leggendarie.
 legendquest_tutorial3	Attenzione! Abbandonare una battaglia Impresa leggendaria<br> non ti restituirà corone, energia<br>o oggetti!
-legendquest_Cancel	Abbandonare la battaglia?<br><color=255,0,0>Corone, energia e oggetti non saranno restituiti.</color>
+legendquest_Cancel	Corone insufficienti...<br>Ottieni corone superando i livelli<br>delle mappe leggendarie.
 legendquest_warning	Corone insufficienti...<br>Ottieni corone superando i livelli<br>delle mappe leggendarie.
 legendquest_popup	<flash>Impresa leggendaria</flash><br>Affronta un livello casuale con una formazione casuale!<br>* Usa le corone ottenute dai livelli leggendari e l'energia per affrontarlo!<br>* Ogni tentativo farà aumentare il costo in corone per accedere alla battaglia.<br>* Corone, energia e oggetti non saranno restituiti se abbandoni la battaglia.
 score_sns	I Battle Cats hanno segnato %d punti su "%@"!%s %s
@@ -1318,7 +1318,7 @@ item_pack_name_68	Pack aumento XP
 item_pack_name_74	Pack aumento Friskat
 potential_skill_warning01	Ultra talenti sbloccabili al <flash>liv. ${level}</flash><br>* I livelli totali includono i liv. MAX+
 potential_skill_warning02	Secondo slot Sfere talento sbloccabile al <flash>liv. ${level}</flash><br>* I livelli totali includono i liv. MAX+
-potential_skill_option00	<flash>${charaName}</flash>ha<br>ricevuto un Ultra talento!
+potential_skill_option00	<flash>${charaName}</flash> ha<br>ricevuto un Ultra talento!
 potential_skill_option01	<flash>${charaName}</flash>ha<br>ricevuto un nuovo slot Sfere talento!
 potential_skill_option02	<flash>${charaName}</flash>ha<br>ricevuto un Ultra talento e uno slot Sfere talento!
 potential_name1	Ultra talento 
@@ -1349,3 +1349,25 @@ potential_skill_name63	Ammazzagiganti
 potential_skill_name64	Ammazza Behemoth
 stage_restriction_charagroup_9	Gatto
 potential_skill_name65	Mini valanga
+slot_SNS_002	Ho ricevuto %d Friskat dalle Slot Feline su #TheBattleCats!<br><br>#BattleCats #9anni
+stageskip_message_2	Baron Foca colpisce "${stageName1}" superato!<br>Inizia la prossima sfida da <flash>${stageName2}</flash>.
+stageskip_message_3	Ele-tale attacca "${stageName1}" superato!<br>Inizia la prossima sfida da <flash>${stageName2}</flash>.
+stageskip_message_4	Mega minaccia "${stageName1}" superato!<br>Inizia la prossima sfida da <flash>${stageName2}</flash>.
+stageskip_message_5	Orrorpotamo "${stageName1}" superato!<br>Inizia la prossima sfida da <flash>${stageName2}</flash>.
+stageskip_message_6	Arcangelo divino colpisce "${stageName1}" superato!<br>Inizia la prossima sfida da <flash>${stageName2}</flash>.
+stageskip_message_7	Grande Ping Z colpisce "${stageName1}" superato!<br>Inizia la prossima sfida da <flash>${stageName2}</flash>.
+stageskip_message_8	L'attacco dei Presagi "${stageName1}" superato!<br>Inizia la prossima sfida da <flash>${stageName2}</flash>.
+unlock_popup_message_138	<flash>Salta le battaglie con Gatto CPU!</flash><br>Per saltare le battaglie dei livelli che hai superato, tocca l'icona che appare selezionando gli oggetti.<br>Nota: non è possibile saltare le battaglie di alcuni livelli.
+ScatCPU_info1	Vuoi usare <flash>${itemNum1}</flash> ${itemName1} per saltare la battaglia?<br>Hai ancora ${itemNum2} Salta a disposizione per oggi.
+ScatCPU_info2	<flash>Gatti CPU illimitati per tutti!</flash><br>Vuoi saltare la battaglia?<br>Hai ancora ${itemNum} Salta a disposizione per oggi.
+ScatCPU_XPdrop	<color=255,255,0>Vittoria totale!</color><br>Hai </flash>ricevuto<flash> XP per aver superato il livello!<br>${itemName} +${itemNum}
+ScatCPU_message	<color=255,0,255>Il Gatto CPU</color><color=0,0,0> è in arrivo.<br>Non è perfetto, essendo stato programmato dai Gatti, ma è abbastanza abile<br>da affrontare i livelli precedentemente superati toccando l'icona!</color>
+ScatCPU_error1	Hai raggiunto il tuo limite di Salta delle battaglie.<br>Il tuo limite di Salta si ripristinerà completamente a mezzanotte.
+ScatCPU_error2	L'orario del dispositivo potrebbe essere stato modificato.<br>Per un po' di tempo non sarà possibile saltare le battaglie.
+ScatCPU_error3	Hai esaurito i Gatti CPU.<br>Vuoi andare al negozio di oggetti?
+ScatCPU_error4	Vuoi usare <flash>${itemNum1}</flash> ${itemName1} per saltare la battaglia?<br><color=255,255,0>Non potrai ottenere le ricompense con punteggio a tempo dai livelli.</color><br>Hai ancora ${itemNum2} Salta a disposizione per oggi.
+ScatCPU_error5	Gatti CPU illimitati per tutti!<br>Vuoi saltare la battaglia?<br><color=255,255,0>Non potrai ottenere le ricompense con punteggio a tempo dai livelli che le prevedono.</color><br>Hai ancora ${itemNum2} Salta a disposizione per oggi.
+ScatCPU_error6	Vuoi usare <flash>${itemNum1}</flash> ${itemName1} per saltare la battaglia?<br><color=255,255,0>I livelli di continuazione non appariranno dopo aver saltato una battaglia.</color><br>Hai ancora ${itemNum2} Salta a disposizione per oggi.
+ScatCPU_error7	Gatti CPU illimitati per tutti!<br>Vuoi saltare la battaglia?<br><color=255,255,0>I livelli di continuazione non appariranno dopo aver saltato una battaglia.</color><br>Hai ancora ${itemNum2} Salta a disposizione per oggi.
+ScatCPU_error8	Non è possibile saltare le battaglie non ancora superate.
+ScatCPU_error9	In questo livello non è possibile saltare le battaglie!<br>È il miaomento di combattere con le proprie forze!

@@ -263,6 +263,9 @@ Your reward: 5 Uber Rare Catseyes!<br>Raise the level caps of your Uber Units.	/
 Your reward: 1 Platinum Shard!	//20100_2:ランク20100の達成表示
 Your reward: 3 Brick Z!<br>Use 'em to Develop your base at the Ototo Menu!	//20200_2:ランク20200の達成表示
 Your reward: 3 Feather Z!<br>Use 'em to Develop your base at the Ototo Menu!	//20300_2:ランク20300の達成表示
+Your reward: 3 Coal Z!<br>Use 'em to Develop your base at the Ototo Menu!	//20400_2:ランク20400の達成表示
+Your reward: 3 Sprockets Z!<br>Use 'em to Develop your base at the Ototo Menu!	//20500_2:ランク20500の達成表示
+Your reward: 3 Gold Z!<br>Use 'em to Develop your base at the Ototo Menu!	//20600_2:ランク20600の達成表示
 	
 	//読み込み可能行数400行まで（2018/11/12）
 	//xxx_1は目標ユーザーランクの内容表示、xxx_2はユーザーランク達成表示

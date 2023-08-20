@@ -94,7 +94,7 @@
 9051|Clear "Decisive Battle!" %d times!<br>Clear any Decisive Battle! stage: %d of %d
 9052|Clear "Decisive Battle!" %d times!<br>Clear any Decisive Battle! stage: %d of %d
 9053|Clear "Decisive Battle!" %d times!<br>Clear any Decisive Battle! stage: %d of %d
-9054|Clear a stage using a catcombo with "Eva Angel Killer" effect!<br>Use Shinji and ??? together (after Empire Ch. 1)|Check the Special Missions to access<br>this Evangelion Collab Mission!
+9054|Clear a stage using a catcombo with "Eva Angel Killer" effect!<br>Use Shinji and ??? together (after Empire Ch. 1)|Check the Special Missions to access<br>Evangelion Collab missions!
 9055|Destroy the 4th Angel<br>Encounter this enemy at "State of Emergency"
 9056|Destroy the 6th Angel<br>Encounter this enemy at "Futagoyama Fortress"
 9057|Destroy the 9th Angel<br>Encounter this enemy at "Asuka On Board (Easy)"
@@ -695,29 +695,29 @@
 9280|
 9281|
 9282|
-9283||
-9284|
-9285|
+9283|【C1. ¡¿Qué hay en la caja?!】¡Adivina qué se oculta en la bola!<br>Pista: una miaudalla llena de agradecimientos.|Echa un vistazo a las misiones especiales y accede<br>a esta misión de【P1. Concurso ¡¿Qué hay en la caja?!】
+9284|【C1. ¡¿Qué hay en la caja?!】¡Adivina qué se oculta en la bola!<br>Pista: es el gato de la buena suerte.
+9285|【C1. ¡¿Qué hay en la caja?!】¡Adivina qué se oculta en la bola!<br>Pista: un ninja que va por el espacio a toda leche.
 9286|
 9287|
-9288||
-9289|
-9290|
-9291|
-9292|
-9293|
-9294||
-9295||
-9296|
-9297|
-9298|
-9299|
-9300|
-9301||
-9302|
-9303|
+9288|【C2. Geografía】¿Qué país es famoso por el sushi?<br>¡Responde superando esta fase en Imperio de los Gatos!|Echa un vistazo a las misiones especiales y accede<br>a esta misión de【C2. ¡¿Qué hay en la caja?!】
+9289|【C2. Geografía】¿Cuál es el desierto más famoso de África?<br>¡Responde superando esta fase en Imperio de los Gatos!
+9290|【C2. Geografía】¿En qué país nació el pintor Salvador Dalí?<br>¡Responde superando esta fase en Imperio de los Gatos!
+9291|【C2. Geografía】¿Dónde está el triángulo que atrapa aviones?<br>¡Responde superando esta fase en Imperio de los Gatos!
+9292|【C2. Geografía】¿Cuál es el estado más grande de EE. UU.?<br>¡Responde superando esta fase en Imperio de los Gatos!
+9293|【C2. Geografía】¡Vete por el mundo<br>y responde a las %d preguntas! (%d de %d)
+9294|【C3. Base gatuna】<br>¡Responde a todas las preguntas del gato!|Echa un vistazo a las misiones especiales y accede<br>a esta misión de【C3. Base gatuna】
+9295|【C4. Matanza】¿Qué enemigo va siempre a selectividad?<br>¡Derrótale en Imperio de los Gatos para responder!|Echa un vistazo a las misiones especiales y accede<br>a esta misión de【C4. Matanza】
+9296|【C4. Matanza】¿Qué enemigo va al cole?<br>¡Derrótale en Imperio de los Gatos para responder!
+9297|【C4. Matanza】¿Qué enemigo colecciona revistas?<br>¡Derrótale en Imperio de los Gatos para responder!
+9298|【C4. Matanza】¿Qué enemigo trabaja de bombero?<br>¡Derrótale en Imperio de los Gatos para responder!
+9299|【C4. Matanza】¿Qué enemigo encontró una cabeza gigante?<br>¡Derrótale en Imperio de los Gatos para responder!
+9300|【C4. Matanza】¡Vete por el mundo<br>y responde a las %d preguntas! (%d de %d)
+9301|【C5. Tiempo y fortuna】¡Supera la fase, da suerte a un aliado<br>y abre la puerta! ¡Supera %d fases celestiales! (%d de %d)|Echa un vistazo a las misiones especiales y accede<br>a esta misión de【C5. Concurso de tiempo y fortuna】
+9302|【C5. Tiempo y fortuna】¡Supera la fase, da suerte a un aliado<br>y abre la puerta! ¡Supera %d fases celestiales! (%d de %d)
+9303|【C5. Tiempo y fortuna】¡Supera la fase, da suerte a un aliado<br>y abre la puerta! ¡Supera %d fases celestiales! (%d de %d)
 9304|
-46|
+46|Misión del 9.º aniversario<br>¡Supera el Imperio de los Gatos (cap. 1) durante el evento!
 9305|Supera el piso 30 de la Torre Infernal.<br>(Estos premios solo se pueden recoger una vez).|¡Se han añadido las misiones de la Torre Infernal<br>a las misiones especiales!
 47|Informe de Emperatriz: Investigación de Aku. Supera %d veces<br>las fases 1-5 de Informe de Emperatriz. (Superadas: %d/%d)|Se han añadido las misiones de<br>Investigación de la Emperatriz a las misiones principales.
 9306||
@@ -858,3 +858,10 @@
 9429|Consigue más de 6200 puntos en <br>la fase 4 de #02 Una boda de muerte
 9430|Consigue más de 4500 puntos en <br>la fase 5 de #02 Una boda de muerte
 9431|¡Consigue una Piedra M. tras superar la puntuación<br>indicada en #02 Una boda de muerte en las fases 1-5!
+9432|【C1. ¡¿Qué hay en la caja?!】¡Hazte con todas<br>las unidades misteriosas de las bolas de evento! (%d de %d)
+9433|【Ultraconcurso】Supera las misiones C1-5 y pide tu premio<br>con valor de 1 millón de dólares (o eso dice el gatomático).
+60|Supera %d fases de Matanza de Mastodontes por primera vez.<br>(Comprueba fases aplicables en Detalles de misión: %d de %d)
+61|Supera %d fases de Matanza de Mastodontes por primera vez.<br>(Comprueba fases aplicables en Detalles de misión: %d de %d)
+9434||
+9435|
+9436|
