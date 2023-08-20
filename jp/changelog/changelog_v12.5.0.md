@@ -48,12 +48,6 @@
     - [unit719.csv](https://github.com/69you/Battle-cat-data/blob/main/jp/assets/DataLocal/unit719.csv)
 <br><br>
 
-<br><br>
-
-<br><br>
-
-<br><br>
-
 * #### [ImageLocal](https://github.com/69you/Battle-cat-data/tree/main/jp/assets/ImageLocal)
     - [bgEffect_039.png](https://github.com/69you/Battle-cat-data/blob/main/jp/assets/ImageLocal/bgEffect_039.png)
     - [enemy_icon_652.png](https://github.com/69you/Battle-cat-data/blob/main/jp/assets/ImageLocal/enemy_icon_652.png)
@@ -250,12 +244,6 @@
     - [unlockPopup.tsv](https://github.com/69you/Battle-cat-data/blob/main/jp/assets/DataLocal/unlockPopup.tsv)
 <br><br>
 
-<br><br>
-
-<br><br>
-
-<br><br>
-
 * #### [ImageLocal](https://github.com/69you/Battle-cat-data/tree/main/jp/assets/ImageLocal)
     - [gatya_005.png](https://github.com/69you/Battle-cat-data/blob/main/jp/assets/ImageLocal/gatya_005.png)
     - [gatya_bnr482.png](https://github.com/69you/Battle-cat-data/blob/main/jp/assets/ImageLocal/gatya_bnr482.png)
@@ -263,10 +251,6 @@
     - [gatya_bnr496.png](https://github.com/69you/Battle-cat-data/blob/main/jp/assets/ImageLocal/gatya_bnr496.png)
     - [mapicon.png](https://github.com/69you/Battle-cat-data/blob/main/jp/assets/ImageLocal/mapicon.png)
     - [scratchbutton_000.png](https://github.com/69you/Battle-cat-data/blob/main/jp/assets/ImageLocal/scratchbutton_000.png)
-<br><br>
-
-<br><br>
-
 <br><br>
 
 * #### [resLocal](https://github.com/69you/Battle-cat-data/tree/main/jp/assets/resLocal)
@@ -295,5 +279,3 @@
 
 * #### [UnitLocal](https://github.com/69you/Battle-cat-data/tree/main/jp/assets/UnitLocal)
     - [udi685_s.png](https://github.com/69you/Battle-cat-data/blob/main/jp/assets/UnitLocal/udi685_s.png)
-<br><br>
-
