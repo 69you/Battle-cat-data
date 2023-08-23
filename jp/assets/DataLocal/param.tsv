@@ -31,3 +31,6 @@ battle_castle_x1	-130
 battle_castle_y1	-30
 battle_castle_x2	0
 battle_castle_y2	0
+volume_percentage_s	20
+volume_percentage_m	50
+volume_percentage_l	100

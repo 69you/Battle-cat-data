@@ -118,26 +118,6 @@ collabo_send_title_2	生きろ！マンボウ！
 collabo_send_scheme_2	com.pocketcreators.manbo://collaboration/nyanko1
 collabo_send_url_2	https://itunes.apple.com/us/app/shengkiro!manbou!-3yi-pino/id743843492?l=ja&ls=1&mt=8
 collabo_send_url_android_2	https://play.google.com/store/apps/details?id=jp.selectbutton.manbo
-collabo_send_title_3	消滅都市2
-collabo_send_scheme_3	shoumetsu://net.wrightflyer.shoumetsu/?serial_campaign_master_id=108&serial_code=C75DX6MKU9BSY3DP
-collabo_send_url_3	itms-apps://itunes.apple.com/jp/app/pages/id858357080?mt=8
-collabo_send_url_android_3	market://details?id=net.wrightflyer.shoumetsu
-collabo_send_title_4	消滅都市2
-collabo_send_scheme_4	shoumetsu://net.wrightflyer.shoumetsu/?serial_campaign_master_id=109&serial_code=79S6E9LWHAPT9RQC
-collabo_send_url_4	itms-apps://itunes.apple.com/jp/app/pages/id858357080?mt=8
-collabo_send_url_android_4	market://details?id=net.wrightflyer.shoumetsu
-collabo_send_title_5	消滅都市2
-collabo_send_scheme_5	shoumetsu://net.wrightflyer.shoumetsu/?serial_campaign_master_id=110&serial_code=2JJB9T2BFT3THRNH
-collabo_send_url_5	itms-apps://itunes.apple.com/jp/app/pages/id858357080?mt=8
-collabo_send_url_android_5	market://details?id=net.wrightflyer.shoumetsu
-collabo_send_title_14	消滅都市2
-collabo_send_scheme_14	shoumetsu://net.wrightflyer.shoumetsu/?serial_campaign_master_id=111&serial_code=RC8SMVN6EH5BXYRL
-collabo_send_url_14	itms-apps://itunes.apple.com/jp/app/pages/id858357080?mt=8
-collabo_send_url_android_14	market://details?id=net.wrightflyer.shoumetsu
-collabo_send_title_17	消滅都市2
-collabo_send_scheme_17	shoumetsu://net.wrightflyer.shoumetsu/?serial_campaign_master_id=112&serial_code=DCZMDM5WDLX55GN7
-collabo_send_url_17	itms-apps://itunes.apple.com/jp/app/pages/id858357080?mt=8
-collabo_send_url_android_17	market://details?id=net.wrightflyer.shoumetsu
 collabo_send_title_23	消滅都市
 collabo_send_scheme_23	shoumetsu://net.wrightflyer.shoumetsu/?serial_campaign_master_id=126&serial_code=LGQZECN6X674LV6D
 collabo_send_url_23	itms-apps://itunes.apple.com/jp/app/pages/id858357080
@@ -158,42 +138,6 @@ collabo_send_title_27	消滅都市
 collabo_send_scheme_27	shoumetsu://net.wrightflyer.shoumetsu/?serial_campaign_master_id=128&serial_code=8LSHYKTYN4VJA9AX
 collabo_send_url_27	itms-apps://itunes.apple.com/jp/app/pages/id858357080
 collabo_send_url_android_27	market://details?id=net.wrightflyer.shoumetsu
-collabo_send_title_6	メルクストーリア
-collabo_send_scheme_6	jp.co.happyelements.toto://ny-201706-01
-collabo_send_url_6	http://click.adzcore.com/1.0.22dfb467df63fb5aa52c82a8a1767632c
-collabo_send_url_android_6	http://click.adzcore.com/1.0.73a6026cdd6629c5bf51433b4fbdd487c
-collabo_send_title_15	メルクストーリア
-collabo_send_scheme_15	jp.co.happyelements.toto://ny-201706-02
-collabo_send_url_15	http://click.adzcore.com/1.0.22dfb467df63fb5aa52c82a8a1767632c
-collabo_send_url_android_15	http://click.adzcore.com/1.0.73a6026cdd6629c5bf51433b4fbdd487c
-collabo_send_title_16	メルクストーリア
-collabo_send_scheme_16	jp.co.happyelements.toto://ny-201706-03
-collabo_send_url_16	http://click.adzcore.com/1.0.22dfb467df63fb5aa52c82a8a1767632c
-collabo_send_url_android_16	http://click.adzcore.com/1.0.73a6026cdd6629c5bf51433b4fbdd487c
-collabo_send_title_18	メルクストーリア
-collabo_send_scheme_18	jp.co.happyelements.toto://ny-201811-01
-collabo_send_url_18	http://click.adzcore.com/1.0.22dfb467df63fb5aa52c82a8a1767632c
-collabo_send_url_android_18	http://click.adzcore.com/1.0.73a6026cdd6629c5bf51433b4fbdd487c
-collabo_send_title_19	メルクストーリア
-collabo_send_scheme_19	jp.co.happyelements.toto://ny-201811-02
-collabo_send_url_19	http://click.adzcore.com/1.0.22dfb467df63fb5aa52c82a8a1767632c
-collabo_send_url_android_19	http://click.adzcore.com/1.0.73a6026cdd6629c5bf51433b4fbdd487c
-collabo_send_title_20	メルクストーリア
-collabo_send_scheme_20	jp.co.happyelements.toto://ny-201811-03
-collabo_send_url_20	http://click.adzcore.com/1.0.22dfb467df63fb5aa52c82a8a1767632c
-collabo_send_url_android_20	http://click.adzcore.com/1.0.73a6026cdd6629c5bf51433b4fbdd487c
-collabo_send_title_28	メルクストーリア
-collabo_send_scheme_28	jp.co.happyelements.toto://ny-202111-01
-collabo_send_url_28	https://app.adjust.com/93ooi1e
-collabo_send_url_android_28	https://app.adjust.com/93ooi1e
-collabo_send_title_29	メルクストーリア
-collabo_send_scheme_29	jp.co.happyelements.toto://ny-202111-02
-collabo_send_url_29	https://app.adjust.com/93ooi1e
-collabo_send_url_android_29	https://app.adjust.com/93ooi1e
-collabo_send_title_30	メルクストーリア
-collabo_send_scheme_30	jp.co.happyelements.toto://ny-202111-03
-collabo_send_url_30	https://app.adjust.com/93ooi1e
-collabo_send_url_android_30	https://app.adjust.com/93ooi1e
 collabo_send_title_7	モンハン 大狩猟クエスト
 collabo_send_scheme_7	mhhq://ponos/collabo1fife
 collabo_send_url_7	http://click.adzcore.com/1.0.cf40fbf90b2d73f00b5bbbc6a4bacfa1c
@@ -206,22 +150,6 @@ collabo_send_title_9	モンハン 大狩猟クエスト
 collabo_send_scheme_9	mhhq://ponos/collabo3prac
 collabo_send_url_9	http://click.adzcore.com/1.0.cf40fbf90b2d73f00b5bbbc6a4bacfa1c
 collabo_send_url_android_9	http://click.adzcore.com/1.0.714b024ed3e6eb1ee5f5b4d6654aab66c
-collabo_send_title_10	ゆるドラシル
-collabo_send_scheme_10	yurudora://collabo/?key=nyagunaroku&value=7976
-collabo_send_url_10	https://click.adzcore.com/1.0.9befc13d33676baf07ee26d336e72314c
-collabo_send_url_android_10	https://click.adzcore.com/1.0.71a116d862251e7e31b921c07d97d6b0c
-collabo_send_title_11	城とドラゴン
-collabo_send_scheme_11	castleanddragon:///code=NyankoDaisensouReward7601
-collabo_send_url_11	https://itunes.apple.com/jp/app/id953790507
-collabo_send_url_android_11	market://details?id=jp.co.asobism_castleanddragon
-collabo_send_title_12	クラッシュフィーバー
-collabo_send_scheme_12	jp.wonderplanet.crashfever://Nyanko?code=001
-collabo_send_url_12	https://itunes.apple.com/jp/app/crash-fever/id950175410
-collabo_send_url_android_12	https://play.google.com/store/apps/details?id=jp.wonderplanet.CrashFever
-collabo_send_title_13	クラッシュフィーバー
-collabo_send_scheme_13	jp.wonderplanet.crashfever://Nyanko?code=002
-collabo_send_url_13	https://itunes.apple.com/jp/app/crash-fever/id950175410
-collabo_send_url_android_13	https://play.google.com/store/apps/details?id=jp.wonderplanet.CrashFever
 collabo_send_title_21	ゆる～いゲゲゲの鬼太郎
 collabo_send_scheme_21	ponos-yurukitagame://collabo-reward/PEwiJWVVMnYL6fCQ
 collabo_send_url_21	https://app.adjust.com/3rhgew8
@@ -846,7 +774,9 @@ h13_inquiry_error	ネットワークにアクセスできませんでした\n通
 filter_option_description0	<color=0,0,0>にゃんこ図鑑でお気に入り設定をした<br>キャラクターを表示します<br>お気に入り設定をしていない場合は選択できません</color>
 filter_option_description1	<color=0,0,0>出撃条件が設定されているステージにて<br>出撃可能なキャラクターを表示します</color>
 filter_option_description2	<color=0,0,0>「ターゲット」「効果/能力」の絞り込み方法を切り替えます<br>OR：条件に一部でも一致するキャラを表示<br>AND：条件に全て一致するキャラを表示</color>
-sort_tutorial_txt1	絞り込み機能が解放されました<br>画面中央の右側のボタンからキャラクターを絞り込むことが可能です
+filter_option_description3	<color=0,0,0>「進化ボタン」が表示されている<br>キャラクターを表示します</color>
+filter_option_description4	<color=0,0,0>「本能ボタン」が解放されている<br>キャラクターを表示します</color>
+sort_tutorial_txt1	<flash>絞り込み機能と並び替え機能が解放されました！</flash><br>画面中央の右側のボタンでキャラクターの絞り込み、<br>画面中央の左側のボタンでキャラクターの並び替えが可能です
 item_pack_purchased_chara	%@キャラクター<color=255,255,0>「%@」</color><br>
 enemy_list_title	出現する敵
 enemy_name_question	？？？
@@ -958,6 +888,7 @@ chapter_name_4	未来編1章
 chapter_name_5	未来編2章
 chapter_name_6	未来編3章
 chapter_name_7	宇宙編1章
+chapter_name_8	宇宙編2章
 unlock_popup_message_80	<flash>ネコビタンステージ「断罪天使クオリネル降臨」が解放！</flash><br>ネコビタンを使っていつでも挑戦することができます
 unlock_popup_message_81	<flash>ネコビタンステージ「地獄門」が解放！</flash><br>ネコビタンを使っていつでも挑戦することができます
 unlock_popup_message_82	<flash>ネコビタンステージ「女帝飛来」が解放！</flash><br>ネコビタンを使っていつでも挑戦することができます
@@ -1121,6 +1052,7 @@ labyrinth_slot_name	調査団
 labyrinth_combo_error	<color=255,255,0>地底迷宮の呪いにより<br>自動でにゃんコンボをセットできません</color>
 labyrinth_cancel	戦闘を中止しますか？<br><color=255,0,0>一部のキャラクターが罠にかかります</color><br><color=178,178,178>※罠にかかったキャラクターは次の挑戦時から編成できません</color>
 labyrinth_result	${stageName}を踏破！<br>現時点で全調査団の上位${rankingNum}％に到達にゃ！
+labyrinth_autoslot	変更可能なキャラクターを自動で入れ替えます
 item_pack_name_44	初心者応援パック 購入
 item_pack_name_45	初心者超応援パック 購入
 item_pack_name_46	初心者激応援パック 購入
@@ -1166,3 +1098,4 @@ ScatCPU_error6	${itemName1}を<flash>${itemNum1}個</flash>使用して<br>戦�
 ScatCPU_error7	ニャンピュータ使い放題中はニャンピュータの消費なし！<br>戦闘スキップを開始しますか？<br><color=255,255,0>戦闘スキップではEXステージは発生しません</color><br>（本日のスキップ可能回数残り ${itemNum2}回）
 ScatCPU_error8	未クリアステージのため戦闘スキップは使用できません
 ScatCPU_error9	このステージは戦闘スキップできないにゃ<br>自分の力でがんばるにゃ
+push_permission	アラームとリマインダーの端末設定をONにすると<br>正確な時刻に通知を受け取ることができます<br><color=255,255,0>Androidの端末設定画面を開きますか？</color>
